@@ -11,25 +11,6 @@ Do you need a [Product Manager](https://www.quora.com/Why-do-engineers-become-pr
 
 <!-- I'm looking for the Product Manager job that will put my creativity, leadership and engineering to work. -->
 
-<!-- 
-3 main qualities:
-1. My Leadership. I usually have strong opinions, particularly when it comes to group project. Being able to influence the group to follow them, giving arguments, facts and demonstrating analytical abilities is important to me. In almost every group project I participate in, I tend to become the main leader.
-
-2. My Creativity. That's where I am the most comfortable: having ideas and elaborating them to solve problems. They might be a bit crazy sometimes... But I've recently learned that even the dumbest idea might transform to a great product and that one to create something is always better than one to only have ideas. While creating, the ideas not only won't stop coming but are even more! I apply this strength on every project and on daily-basis.
-
-3. My Engineering (+ Curiosity). This should be my main strength if you only look at my cursus... and it is actually really powerful. Thanks to that, I feel confident designing and building concrete and technical solutions to a problem. I have a wide knowledge of available technologies and how to implement them. I demonstrated this strength during my whole cursus and on a daily basis during my internship at IBM as software engineer.
-
-
-3 Negative qualities/default: 
-- Time Management -- If time management is your weakness, then you can say that you’re controlling it by using reminders, alarms and calendars on digital devices you have.
-- Getting Stressed Around Deadlines -- While it’s reasonable to worry a bit because of an approaching deadline, getting too worked up about them can be seen as a negative. You can say that you’re battling this issue by setting reasonable deadlines instead of ambitious ones like you used to.
-- Being Too Critical of Yourself -- Maybe you’ve been too critical of yourself, especially in the beginning of your professional career — generating too much negativity can definitely be seen as a weakness. But today, you choose to actively pause and celebrate your accomplishments, which helps with self-esteem
-
-My worst idea?
-"So many, but it always learn you something." : find one
-They might be a bit crazy sometimes... but even the dumbest idea might turn into a great product. I've recently learned that one who creates something is always better than one who only has ideas.
- -->
-
 ## Bio
 [See my full resume on LinkedIn]({{ site.linkedin }})
 
@@ -88,8 +69,6 @@ Work in progress... Coming soon! -->
 
 ## Books
 Some books I've read, liked and would recommend.
-
-<!-- I will also try to put there with my opinion about them and a link to goodbooks.io. -->
 
 {% for book in site.data.books %}
 #### {{ book.title }} <span class="author">By {{ book.author }}</span>  {% for tag in book.tags %}<span class="tag {{ tag.class }}">{{ tag.text }}</span>{% endfor %}
