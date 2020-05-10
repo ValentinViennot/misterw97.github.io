@@ -69,7 +69,7 @@ Some of them link to a more detailed README, some are just a title and a short d
 ### {{ project.name }} {% for tag in project.tags %}<span class="tag {{ tag.class }}">{{ tag.text }}</span>{% endfor %}
 
 {% if project.image %}
-![{{ project.image }}](/assets/projects/{{project.image}})
+![{{ project.image }}](/assets/img/projects/{{project.image}})
 {% endif %}
 
 {{ project.description }}
@@ -80,31 +80,21 @@ Some of them link to a more detailed README, some are just a title and a short d
 {% endunless %}
 {% endfor %}
 
-<!-- 
-- Portfolio
-- Experience
-- Training
-- ...
 
-- Portfolio
-- Resume -> LinkedIn (quand même mettre un truc de base et liens "see more" + lien vers CV pdf?) 
-- Ideas (abstract/elevator pitch + designs et liens Dribble)
-
-Your Bio. ...
-Examples of Your Work. ...
-Testimonials. ...
-Contact Information. ...
-Resume. ...
-Personal Branding. ...
-An Updated Blog. ...
-Your Elevator Pitch. -->
-
-## Ideas
+<!-- ## Ideas
 Some project ideas I had but I haven't done (yet). 
 
-Work in progress... Coming soon!
+Work in progress... Coming soon! -->
 
 ## Books
-Some books I really liked or am currently reading and liking. I will also try to put there with my opinion about them and a link to goodbooks.io.
+Some books I've read, liked and would recommend.
 
-Work in progress... Coming soon!
+<!-- I will also try to put there with my opinion about them and a link to goodbooks.io. -->
+
+{% for book in site.data.books %}
+#### {{ book.title }} <span class="author">By {{ book.author }}</span>  {% for tag in book.tags %}<span class="tag {{ tag.class }}">{{ tag.text }}</span>{% endfor %}
+
+<a href="{{ book.link }}" target="_blank">
+<img class="book" src="/assets/img/books/{{ book.image }}" alt="{{ book.title }}" />
+</a>
+{% endfor %}

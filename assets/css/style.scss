@@ -26,4 +26,18 @@ span.tag {
     &.pink {
         background: #d53973;
     }
+    &.orange {
+        background: orangered;
+    }
+}
+
+span.author {
+    font-weight: 100;
+}
+
+img.book {
+    width: 40%;
+    margin: auto;
+    display: block;
+    box-shadow: 0 24px 24px -12px rgba(38,38,38,.2);
 }

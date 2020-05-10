@@ -1,0 +1,31 @@
+- title: Hooked
+  author: Nir Eyal
+  link: https://www.goodbooks.io/books/hooked
+  image: hooked.jpg
+  tags:
+    - text: Product Design
+      class: purple
+    - text: Technology
+      class: red
+
+- title: The Five Dysfunctions of a Team
+  author: Patrick Lencioni
+  link: https://www.goodbooks.io/books/the-five-dysfunctions-of-a-team
+  image: five-dysfunctions.jpg
+  tags:
+    - text: Management
+
+- title: Scrum en action
+  author: Guillaume Bodet
+  link: https://books.google.fr/books/about/Scrum_en_action.html
+  image: scrum-en-action.jpg
+  tags:
+    - text: Management
+
+- title: Cinq leçons sur la psychanalyse
+  author: Sigmund Freud
+  link: https://books.google.fr/books/about/Scrum_en_action.html
+  image: freud-cinq-lecons.jpg
+  tags:
+    - text: Philo
+      class: orange
