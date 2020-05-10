@@ -1,0 +1,215 @@
+- name: copy_me
+  hide: true
+  image: image.png
+  tags:
+    - text: 2000
+    - text: Side-Project
+      class: purple
+  links:
+    - name: README
+      path: ./demo.html
+  description: |
+    short_description
+
+- name: Gauges
+  image: gauges.png
+  tags:
+    - text: 2020
+    - text: Side-Project
+      class: purple
+    - text: ThePinkOwl
+      class: pink
+    - text: WIP
+      class: green
+  links:
+    - name: GitHub
+      path: https://github.com/thepinkowl/gauges/
+    - name: Dribble
+      path: https://dribbble.com/shots/11144874-Gauges-manage-your-recurring-tasks-like-a-Sim
+  description: |
+    This year I co-founded ThePinkOwl to develop open-source projects for home automation
+    and more generally open source education. Although not directly related to home automation,
+    "Gauges" will be one of the first products coming out from this project.
+
+    We need to stop fooling ourselves: our regular todo apps will never
+    succeed in managing recurring tasks and are only frustrating us.
+    You set a reminder, it's never the right time, you end up doing it late and feeling bad about it.
+
+    The right question is "how often?" not "when?".
+    The focus should be on keeping the lights green rather than doing things on time.    
+    Inspired by the famous game "The Sims",
+    we think that the goal of such an app should be to estimate a status for something you cannot easily measure.
+
+- name: 'Bluffer: the locked-down version'
+  image: bluffer.png
+  tags:
+    - text: 2020
+    - text: Side-Project
+      class: purple
+  links:
+    - name: GitHub
+      path: https://github.com/misterw97/bluffer/
+  description: |
+    In these times of lockdown, it is important to stay in touch with our friends and family.
+    What's better than a good board game? Unfortunately,
+    some of these games cannot be easily played remotely and no online tool seems suitable.
+    Sure, we could hijack our traditional messaging apps but it would be more fun to be able to focus on the game!
+    The [Bluffer](https://www.trictrac.net/jeu-de-societe/bluffer) is for me one of the most user-friendly and fun games to play.
+    However, it is also one of the hardest to virtualize.    
+    I took the day off to design and build this quick remote app to play this iconic game with my family!
+
+- name: 'MuchMatch: Swipe it right!'
+  image: swipe.png
+  tags:
+    - text: 2019
+    - text: EPFL
+      class: red
+  links:
+    - name: GitHub
+      path: https://github.com/misterw97/Much-Match
+  description: |
+    "The near-unlimited choice of items presented in online stores leads users on journeys of
+    untargeted and unsatisfying scrolling through bottomless pages on the search for products
+    they really like."
+
+    In the context of the EPFL Experience Design course (Fall 2019),
+    we proposed both a new -- fun -- way to browse shopping catalogues and a
+    powerful background data analysis leveraging a familiar technology: swiping.     
+    What if this simple gesture could tell much more about a customer than the
+    classic scroll and click combo? What you swipe and How you swipe it.
+
+    We built a working demonstration extracting features from swipe gestures
+    to characterize them among other participants and among your usual swipes.
+    This demonstration convinced the final presentations jury!
+
+- name: Kitchen Science
+  image: kitchen-science.png
+  tags:
+    - text: 2019
+    - text: EPFL
+      class: red
+  links:
+    - name: GitHub
+      path: https://github.com/misterw97/ntds_kitchen_science
+    - name: Demo
+      path: http://kitchen-science.eu-gb.mybluemix.net/
+  description: |
+    Have you ever invited vegetarian/vegan friends over for diner and didn't know how to replace the meat in your favorite dish?
+    Or had a crucial ingredient suddently disappearing from your kitchen?
+    This project is for you!
+
+    In the context of the EPFL Network Tour of Data Science course (Fall 2019),
+    we proposed to create a tool to remove certain ingredients from a recipe and output the best ingredients to replace them.
+    We used data science and graph manipulation to develop an ingredient suggestion and replacement tool.
+    After developping several ingredient networks using the Recipe1M+ and USDA databases,
+    we used a combination of nearest neighbors analysis and graph filtering to determine the optimal
+    replacements for ingredients.
+
+    We successfully developed palatable choices both for meat-loving and vegan users!
+    We were also able to suggest ingredients to add to make your recipes even tastier.
+
+- name: 'Junction: Bag.ly'
+  image: bagly.png
+  tags:
+    - text: 2019
+    - text: Hackathon
+      class: purple
+  links:
+    - name: Wireframes
+      path: https://wireframepro.mockflow.com/view/bagly-wireframe
+  description: |
+    Junction is "Europe's leading hackathon, yearly gathering around 1500 hackers together [...]
+    developers, designers and other techies, teaming up and creating new tech projects in 48 hours". I got a chance to participate in the 2019 edition.
+
+    With my newly-met team, we participated in the [Qoco](https://www.qoco.aero/) challenge: how can you improve the traveler experience with a lugage-tracking real-time API?
+    After brainstorming pretty common ideas about creating UIs to track luggages (in fact, that's a big lack today),
+    we combined that with Blockchain technology to enforce trust among different parties: traveler, aiport, airline company.
+
+    However, we felt it wasn't innovative enough. Why would we need this trust? Who would benefit from that? Travel insurances.
+    In fact, lost luggages are more a matter of fear sentiment than an actual technical problem.
+    Overnight, we moved our project to a neo-insurance providing instant help-package and 5-days full refund in case of lost or broken luggage.
+
+- name: HackLyon
+  image: hacklyon.png
+  tags:
+    - text: 2018
+    - text: Hackathon
+      class: purple
+    - text: NGO
+      class: green
+  links:
+    - name: Facebook page
+      path: https://www.facebook.com/hacklyonfr
+  description: |
+    With a friend of mine, we wanted to organize a scientific and technical Hackathon open to all students with no entry fee.
+    Therefore, we founded a student NGO -- Hacklyon -- and organised "Alpha" in 2018:
+    a small hackathon about bringing AI and Cloud technologies to the transports industry.
+    I am really proud of this achievement and the role I played as Event Manager.
+    I was leading a team of 7 to organise partnerships, communication, technical resources, event schedule, food and necessities, budgeting...
+    We had a great time on day-d with the 50 participants during 34H.
+    I am proud of the result as every participant and partner was very satisfied, proud of the quality we delivered --
+    being recognised as a Web Conference partner for this event.
+    Most of all, I am proud of what we made from almost nothing: having less than 100€ per participant with no participation fee,
+    although food and all required material was on ours! I learned a lot about leadership, organising events... and even technically.
+
+- name: Wavestone
+  hide: true
+  image: ''
+  tags:
+    - text: 2018
+    - text: Hackathon
+      class: purple
+  description: |
+    I participated in my first Hackathon three years ago (organised by Wavestone, about chatbots and won the technical prize)
+    and after that I wanted to organise one for my peers!
+    state of the art
+    // TODO
+
+- name: Biocaux
+  tags:
+    - text: 2018
+    - text: INSA
+      class: red
+  description: |
+    Pour un projet d'innovation... etc // TODO
+  hide: true
+
+- name: Agendapp
+  image: agendapp.png
+  tags:
+    - text: 2016
+    - text: Side-Project
+      class: purple
+  links:
+    - name: Website
+      path: https://agendapp.fr/
+    - name: GitHub (frontend - web)
+      path: https://github.com/misterw97/agendacollaboratif_web
+  description: |
+    When I joined the preparatory cycle at INSA Lyon, I was having troubles remembering or just paying attention to the teachers giving us homeworks.
+    I observed many former high school students stuggling to have the same understanding of what was just one (often unclear) quick sentence at
+    the end of a lecture or an exercise series.
+    Almost every day someone had to ask on our Facebook group, "do we need to do anything for tomorrow?".    
+    I quickly prototyped a PHP app for what I first called "the collaborative textbook".
+    Then, I experimented for the first time with AngularJS and Ionic and evolved it to the Agendapp.
+    A classic student agenda, shared among all course students.
+
+- name: MDL Evariste
+  image: mdl-evariste.png
+  tags:
+    - text: 2015
+    - text: High-School
+      class: green
+  links:
+    - name: Public website
+      path: https://mdl-evariste.fr/
+  description: |
+    In high school, I was president of the student office with a need for change.
+    I lead a huge modernization campaign of our tools (also because I wanted real life projects to learn programming on).
+    We needed to manage our business, to interact with the school administration and -- most of all -- as students we needed information.
+    Communication is always a major problem in big orgs.
+    I built *my first real world* web application divided in 4 "subdomains":
+    office administration, school administration, information screens and a public portal.
+    Eventually the first TV screen was installed in our high school displaying useful information to students and these IT tools became
+    standard use for both the student office and the high school administration.
+    Today, I still receive messages about new screens being installed and how useful it is to the school!
