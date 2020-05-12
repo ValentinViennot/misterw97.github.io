@@ -22,23 +22,15 @@
     - text: WIP
       class: green
   links:
+    - name: Dribble
+      path: https://dribbble.com/shots/11385510-Gauges-Manage-your-recurring-tasks-like-a-Sim
     - name: GitHub
       path: https://github.com/thepinkowl/gauges/
-    - name: Dribble
-      path: https://dribbble.com/shots/11144874-Gauges-manage-your-recurring-tasks-like-a-Sim
   description: |
-    This year I co-founded ThePinkOwl to develop open-source projects for home automation
-    and more generally open source education. Although not directly related to home automation,
-    "Gauges" will be one of the first products coming out from this project.
+    We need to stop fooling ourselves: our regular todo apps will never succeed in managing recurring tasks and are only frustrating us. You set a reminder, it's never the right time, you end up doing it late and feeling bad about it... Even worse: once you mark it done, the next occurrence shows up!    
+    The real question is, "how often?" and not "when?". The focus should be on keeping the lights green rather than on doing things on time. Inspired by the popular game "The Sims", we think that the goal of such an app should be to estimate a status for something you cannot easily measure.
 
-    We need to stop fooling ourselves: our regular todo apps will never
-    succeed in managing recurring tasks and are only frustrating us.
-    You set a reminder, it's never the right time, you end up doing it late and feeling bad about it.
-
-    The right question is "how often?" not "when?".
-    The focus should be on keeping the lights green rather than doing things on time.    
-    Inspired by the famous game "The Sims",
-    we think that the goal of such an app should be to estimate a status for something you cannot easily measure.
+    This year I co-founded ThePinkOwl to develop open-source projects for home automation and more generally open-source education. Although not directly related to home automation, "Gauges" will be one of the first products coming out from this project. I'm leading product design.
 
 - name: 'Bluffer: the locked-down version'
   image: bluffer.png
