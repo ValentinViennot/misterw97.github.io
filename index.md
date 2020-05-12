@@ -6,7 +6,7 @@ layout: default
 
 I’m a Senior Engineering Student. I will graduate with a Master's degree in [Communication Systems](https://www.insa-lyon.fr/fr/formation/telecommunications-services-usages) in September 2020. As part of my 3-year apprenticeship at the [IBM Garage](https://www.ibm.com/cloud/architecture/careers), I’ve been working with cloud technologies as a full-stack software engineer.    
 
-Many projects are stuck because they lack a product vision. I put my creativity, cross-functional knowledge, and problem-solving skills gained from my engineering background to work. I often take the lead and eventually obtain results, with the best grade or a satisfied client.    
+Many projects are stuck because they lack a product vision. I put my creativity, cross-functional knowledge, and problem-solving skills gained from my engineering background to work. I often take the lead and <!-- eventually --> obtain results, with the best grade or a satisfied client.    
 
 Do you need a [Product Manager](https://www.quora.com/Why-do-engineers-become-product-managers/answer/Fareed-Mosavat?ch=3&share=5287df25&srid=3XLCB) that can bring your product to the next step? Reach me out.
 
