@@ -121,17 +121,21 @@
     We were able to measure the success of our event from the positive feedback we obtained from partners and participants. Being part of The Web Conference was a significant recognition of the quality of our organization, communication, and delivery. As a person, I learned a lot about leadership, organizing events, and even technically.    
 
 - name: Wavestone
-  hide: true
-  image: ''
+  image: wavestone.png
   tags:
     - text: 2018
     - text: Hackathon
       class: purple
+  links:
+    - name: Wavestone post on LinkedIn
+      path: https://www.linkedin.com/pulse/hackathon-chatbots-36h-pour-hacker-son-entreprise-aubin-coll%C3%A9aux/
   description: |
-    I participated in my first Hackathon three years ago (organised by Wavestone, about chatbots and won the technical prize)
-    and after that I wanted to organise one for my peers!
-    state of the art
-    // TODO
+    Wavestone "Hack your bot" was the first Hackathon I ever participated in.    
+    The challenge was to ideate and prototype an enterprise chatbot designed to help internal HR procedures. I came to this Hackathon with two friends from my engineering school, and we teamed up with three Wavestone consultants. Our idea was to design a chatbot helping new employees find their way in the company.
+
+    I proposed an innovative "multi-bot" architecture (cf. diagram above) to improve the pertinence of themed answers. The core idea was to have not one but multiple chatbots answering the user message. The best answer relative to the confidence and the current context would be selected. We also implemented a robust backend to share conversation contexts and progress between multiple bots.
+
+    For this solution, our team won the "Technical Prize," and our solution was described as "state-of-the-art" by the Jury!
 
 - name: Biocaux
   tags:
