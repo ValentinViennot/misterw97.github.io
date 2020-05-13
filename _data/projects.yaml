@@ -57,19 +57,12 @@
     - name: GitHub
       path: https://github.com/misterw97/Much-Match
   description: |
-    "The near-unlimited choice of items presented in online stores leads users on journeys of
-    untargeted and unsatisfying scrolling through bottomless pages on the search for products
-    they really like."
+    "The near-unlimited choice of items presented in online stores leads users on journeys of untargeted and unsatisfying scrolling through bottomless pages on the search for products they like."
 
-    In the context of the EPFL Experience Design course (Fall 2019),
-    we proposed both a new -- fun -- way to browse shopping catalogues and a
-    powerful background data analysis leveraging a familiar technology: swiping.     
-    What if this simple gesture could tell much more about a customer than the
-    classic scroll and click combo? What you swipe and How you swipe it.
+    In the context of the EPFL Experience Design course (Fall 2019), we proposed both a new -- fun -- way to browse shopping catalogs and a robust background data analysis leveraging a familiar technology: swiping.    
+    What if this simple gesture could tell much more about a customer than the classic scroll and click combo? What you swipe and How you swipe it.
 
-    We built a working demonstration extracting features from swipe gestures
-    to characterize them among other participants and among your usual swipes.
-    This demonstration convinced the final presentations jury!
+    We built a working demonstration extracting features from swipe gestures to characterize them among other participants and your usual swipes. This demonstration convinced the final presentations jury!
 
 - name: Kitchen Science
   image: kitchen-science.png
