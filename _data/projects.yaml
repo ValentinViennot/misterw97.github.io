@@ -94,16 +94,13 @@
     - name: Wireframes
       path: https://wireframepro.mockflow.com/view/bagly-wireframe
   description: |
-    Junction is "Europe's leading hackathon, yearly gathering around 1500 hackers together [...]
-    developers, designers and other techies, teaming up and creating new tech projects in 48 hours". I got a chance to participate in the 2019 edition.
+    Junction is “Europe’s leading hackathon, yearly gathering around 1500 hackers together […] developers, designers, and other techies, teaming up and creating new tech projects in 48 hours”. I got a chance to participate in the 2019 edition.    
 
-    With my newly-met team, we participated in the [Qoco](https://www.qoco.aero/) challenge: how can you improve the traveler experience with a lugage-tracking real-time API?
-    After brainstorming pretty common ideas about creating UIs to track luggages (in fact, that's a big lack today),
-    we combined that with Blockchain technology to enforce trust among different parties: traveler, aiport, airline company.
+    With my newly-met team, we participated in the [Qoco](https://www.qoco.aero/) challenge: how can you improve the traveler experience with a real-time luggage-tracking API?    
+    We first brainstormed pretty standard ideas about creating informative UIs to track luggage (which is a significant lack today). We combined that with Blockchain technology to enforce trust among different parties: traveler, airport, and airline company.    
 
-    However, we felt it wasn't innovative enough. Why would we need this trust? Who would benefit from that? Travel insurances.
-    In fact, lost luggages are more a matter of fear sentiment than an actual technical problem.
-    Overnight, we moved our project to a neo-insurance providing instant help-package and 5-days full refund in case of lost or broken luggage.
+    I felt it wasn’t an innovative enough project. Why would we need this trust? Who would benefit from that? Travel insurances. Lost luggage is more a matter of fear sentiment than an actual technical problem.    
+    Overnight, we moved our project to a neo-insurance providing instant help-package and 5-days full refund in case of lost or broken luggage.    
 
 - name: HackLyon
   image: hacklyon.png
