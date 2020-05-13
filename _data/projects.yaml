@@ -171,12 +171,10 @@
     - name: Public website
       path: https://mdl-evariste.fr/
   description: |
-    In high school, I was president of the student office with a need for change.
-    I lead a huge modernization campaign of our tools (also because I wanted real life projects to learn programming on).
-    We needed to manage our business, to interact with the school administration and -- most of all -- as students we needed information.
-    Communication is always a major problem in big orgs.
-    I built *my first real world* web application divided in 4 "subdomains":
-    office administration, school administration, information screens and a public portal.
-    Eventually the first TV screen was installed in our high school displaying useful information to students and these IT tools became
-    standard use for both the student office and the high school administration.
-    Today, I still receive messages about new screens being installed and how useful it is to the school!
+    When I was in high school, I was president of the student office with a desire for change. I led a vast modernization campaign of our tools (also because I wanted real-life projects to learn to program on).    
+    We needed to manage our business, interact with the school administration, and -- most of all -- we needed communication tools. Communication is always a significant problem in big organizations.
+
+    I built *my first real-world* web application divided into 4 “subdomains”: office administration, school administration, information screens, and a public portal. Eventually, we installed the first TV screen in our high school, displaying useful information to students.
+
+    These IT tools became regular use for both the student office and the high school administration. Today, I still receive messages about new screens being installed and how useful it is to the school!
+
