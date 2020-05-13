@@ -76,19 +76,13 @@
     - name: Demo
       path: http://kitchen-science.eu-gb.mybluemix.net/
   description: |
-    Have you ever invited vegetarian/vegan friends over for diner and didn't know how to replace the meat in your favorite dish?
-    Or had a crucial ingredient suddently disappearing from your kitchen?
-    This project is for you!
+    Have you ever invited vegetarian/vegan friends over for diner and didn't know how to replace the meat in your favorite dish? Or had a crucial ingredient suddenly disappearing from your kitchen?    
+    This project is for you!    
 
-    In the context of the EPFL Network Tour of Data Science course (Fall 2019),
-    we proposed to create a tool to remove certain ingredients from a recipe and output the best ingredients to replace them.
-    We used data science and graph manipulation to develop an ingredient suggestion and replacement tool.
-    After developping several ingredient networks using the Recipe1M+ and USDA databases,
-    we used a combination of nearest neighbors analysis and graph filtering to determine the optimal
-    replacements for ingredients.
+    In the context of the EPFL Network Tour of Data Science course (Fall 2019), we proposed to create a tool to remove certain ingredients from a recipe and output the best elements to replace them.    
+    We used data science and graph manipulation to develop an ingredient suggestion and replacement tool. After developing several ingredient networks using the Recipe1M+ and USDA databases, we used a combination of kNN analysis and graph filtering to determine the optimal replacements for ingredients.    
 
-    We successfully developed palatable choices both for meat-loving and vegan users!
-    We were also able to suggest ingredients to add to make your recipes even tastier.
+    We successfully developed palatable choices both for meat-loving and vegan users! We were also able to suggest ingredients to add to make your recipes even tastier.    
 
 - name: 'Junction: Bag.ly'
   image: bagly.png
