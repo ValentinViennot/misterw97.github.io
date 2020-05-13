@@ -1,5 +1,6 @@
 ---
 layout: default
+mask_hidden: true
 ---
 
 # About Me
@@ -56,7 +57,7 @@ Whether it’s side or school projects, I’d be happy to discuss them with you!
 Some of them link to a more detailed README, some are just a title and a short description... There's no ground rule! -->
 
 {% for project in site.data.projects %}
-{% unless project.hide %}
+{% unless project.hide and page.mask_hidden %}
 ### {{ project.name }} {% for tag in project.tags %}<span class="tag {{ tag.class }}">{{ tag.text }}</span>{% endfor %}
 
 {% if project.image %}

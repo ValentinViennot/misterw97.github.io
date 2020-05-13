@@ -182,3 +182,15 @@
 
     These IT tools became regular use for both the student office and the high school administration. Today, I still receive messages about new screens being installed and how useful it is to the school!
 
+- name: 'MDL Evariste: President'
+  hide: true
+  tags:
+    - text: 2015
+    - text: High-School
+      class: green
+  description: |
+      - Manage the student office in a High School of 1500+ students. I increased the number of members by 51% to 220 students.
+      - Organize and create events during the year: 12 events, three new.
+      - Lead a board of 11 volunteers.
+      - Manage a small business with a turnover > 10k€
+
