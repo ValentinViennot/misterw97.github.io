@@ -42,13 +42,10 @@
     - name: GitHub
       path: https://github.com/misterw97/bluffer/
   description: |
-    In these times of lockdown, it is important to stay in touch with our friends and family.
-    What's better than a good board game? Unfortunately,
-    some of these games cannot be easily played remotely and no online tool seems suitable.
-    Sure, we could hijack our traditional messaging apps but it would be more fun to be able to focus on the game!
-    The [Bluffer](https://www.trictrac.net/jeu-de-societe/bluffer) is for me one of the most user-friendly and fun games to play.
-    However, it is also one of the hardest to virtualize.    
-    I took the day off to design and build this quick remote app to play this iconic game with my family!
+    In these times of lockdown, it is critical to stay in touch with our friends and family. What's better for that than a great board game? Unfortunately, some of these games can merely be played remotely.    
+    We could hijack our traditional messaging apps. But wouldn't it be funnier to focus on the game?    
+    The [Bluffer](https://www.trictrac.net/jeu-de-societe/bluffer) is, IMO, one of the most user-friendly and fun games to play. However, it's also one of the hardest to virtualize without specific tools.    
+    I took the day off to design and build this quick remote app to play this iconic game with my family. The great time that resulted from this was way worth the work!
 
 - name: 'MuchMatch: Swipe it right!'
   image: swipe.png
