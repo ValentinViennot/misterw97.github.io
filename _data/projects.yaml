@@ -154,13 +154,12 @@
     - name: GitHub (frontend - web)
       path: https://github.com/misterw97/agendacollaboratif_web
   description: |
-    When I joined the preparatory cycle at INSA Lyon, I was having troubles remembering or just paying attention to the teachers giving us homeworks.
-    I observed many former high school students stuggling to have the same understanding of what was just one (often unclear) quick sentence at
-    the end of a lecture or an exercise series.
-    Almost every day someone had to ask on our Facebook group, "do we need to do anything for tomorrow?".    
-    I quickly prototyped a PHP app for what I first called "the collaborative textbook".
-    Then, I experimented for the first time with AngularJS and Ionic and evolved it to the Agendapp.
-    A classic student agenda, shared among all course students.
+    When I joined the preparatory cycle at INSA Lyon, I was having trouble remembering or just paying attention to the teachers giving us homework.    
+    I observed many former high school students having the same issue. While assignments were pretty clear in high school, they were just one quick sentence, often unclear, at the end of a lecture or an exercise series in University. Almost every day, someone had to ask on our Facebook group, "do we need to do anything for tomorrow?".    
+
+    I quickly prototyped a PHP app for what I first called "the collaborative textbook." Then, I experimented for the first time with AngularJS and Ionic and evolved it to the Agendapp product. A classic student agenda shared among all course students.    
+
+    The Agendapp made the first uni years easier for all my group and, later, my promotion.    
 
 - name: MDL Evariste
   image: mdl-evariste.png
