@@ -49,8 +49,8 @@ I'm determined about my next move: If you're looking for a Product Manager who's
 
 ## Portfolio
 
-This section is about some projects I lead and played a great part in.
-Wether it's side or school projects, I'd be happy to discuss them with you!
+This section is about some projects I led and have done a significant part.
+Whether it’s side or school projects, I’d be happy to discuss them with you!
 
 <!-- First one is the most recent active one.
 Some of them link to a more detailed README, some are just a title and a short description... There's no ground rule! -->
@@ -78,7 +78,7 @@ Some project ideas I had but I haven't done (yet).
 Work in progress... Coming soon! -->
 
 ## Books
-Some books I've read, liked and would recommend.
+Some books I've read liked and would recommend.
 
 {% for book in site.data.books %}
 #### {{ book.title }} <span class="author">By {{ book.author }}</span>  {% for tag in book.tags %}<span class="tag {{ tag.class }}">{{ tag.text }}</span>{% endfor %}
