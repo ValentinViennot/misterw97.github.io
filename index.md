@@ -38,6 +38,15 @@ All in all, I'm sure about my next step: I want to be a product manager – the 
 
 > "Willing to think, Curious to learn, Enthusiastic about making" is my motto.
 
+<!--
+Minified version:
+I've always wanted to be an inventor. Since I was a child, I wanted to solve all the problems with my ideas. Without any doubt, I joined the top-ranked INSA de Lyon engineering school right after graduating from High School.
+Learning how to code for some side-projects, I quickly realized it was the perfect way to bring all my inventions to life. More than that, programming isn't related to only one field and neither were my ideas.
+Willing to learn from the real world as soon as possible, I joined IBM in 2017 for a 3-year apprenticeship as a Full-Stack Software Engineer -- currently working in the IBM Garage for Cloud division.
+After spending a semester at the EPFL studying user experience and data science, I came back with a new mindset: entrepreneur is the right word for inventor!
+I'm determined about my next move: If you're looking for a Product Manager who's passionate, curious and motivated to learn; not only a thinker but a maker... let's chat and see how we are going to improve our world together!
+-->
+
 ## Portfolio
 
 This section is about some projects I lead and played a great part in.
