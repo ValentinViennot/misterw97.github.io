@@ -1,16 +1,3 @@
-- name: copy_me
-  hide: true
-  image: image.png
-  tags:
-    - text: 2000
-    - text: Side-Project
-      class: purple
-  links:
-    - name: README
-      path: ./demo.html
-  description: |
-    short_description
-
 - name: Gauges
   image: gauges.png
   tags:
@@ -120,6 +107,20 @@
 
     We were able to measure the success of our event from the positive feedback we obtained from partners and participants. Being part of The Web Conference was a significant recognition of the quality of our organization, communication, and delivery. As a person, I learned a lot about leadership, organizing events, and even technically.    
 
+- name: 'London IBM Garage: pipeline dashboard'
+  image: radiator.jpg
+  hide: true
+  tags:
+    - text: 2018
+    - text: IBM
+      class: green
+  description: |
+    During my apprenticeship at IBM, I had the opportunity to join the London Garage team as a two-month mobility project. The IBM Cloud Garage is running Design Thinking workshops and developing MVP (Minimum Viable Products), working directly with the client applying agile principles and methodology.    
+      
+    The London team has many internal projects to develop new skills and try out new technologies/frameworks. One central project was the "pipeline dashboard," showing data about CI/CD configured on the different projects. This project was forked from quite an old framework and needed new integrations. Additionally, we wanted to try Vue.JS before using it on external projects.    
+    I proposed to re-design the dashboard, both UI and architecture. After getting advice from the lead designer and an architect from our team, I prototyped and developed a new working dashboard based on a microservices architecture.    
+    The team was delighted with the new solution. I even had time to integrate it into another internal project, an IoT alert system.    
+
 - name: Wavestone
   image: wavestone.png
   tags:
@@ -143,7 +144,7 @@
     - text: INSA
       class: red
   description: |
-    Pour un projet d'innovation... etc // TODO
+    INSA innovation project: TODO.
   hide: true
 
 - name: Agendapp
