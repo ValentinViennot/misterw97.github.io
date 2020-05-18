@@ -5,6 +5,8 @@ mask_hidden: true
 
 # About Me
 
+> “A great product manager has the brain of an engineer, the heart of a designer, and the speech of a diplomat.” - Deep Nishar
+
 I’m a Senior Engineering Student. I will graduate with a Master's degree in [Communication Systems](https://www.insa-lyon.fr/fr/formation/telecommunications-services-usages) in September 2020. As part of my 3-year apprenticeship at the [IBM Garage](https://www.ibm.com/cloud/architecture/careers), I’ve been working with cloud technologies as a full-stack software engineer.    
 
 Many projects are stuck because they lack a product vision. I put my creativity, cross-functional knowledge, and problem-solving skills gained from my engineering background to work. I often take the lead and <!-- eventually --> obtain results, with the best grade or a satisfied client.    
