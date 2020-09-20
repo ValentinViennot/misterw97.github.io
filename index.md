@@ -79,7 +79,7 @@ Some project ideas I had but I haven't done (yet).
 Work in progress... Coming soon! -->
 
 ## Books
-Some books I've read liked and would recommend.
+Some books I've read, liked, and would recommend.
 
 {% for book in site.data.books %}
 #### {{ book.title }} <span class="author">By {{ book.author }}</span>  {% for tag in book.tags %}<span class="tag {{ tag.class }}">{{ tag.text }}</span>{% endfor %}
