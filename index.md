@@ -7,13 +7,11 @@ mask_hidden: true
 
 > “A great product manager has the brain of an engineer, the heart of a designer, and the speech of a diplomat.” - Deep Nishar
 
-I’m a Senior Engineering Student. I will graduate with a Master's degree in [Communication Systems](https://www.insa-lyon.fr/fr/formation/telecommunications-services-usages) in September 2020. As part of my 3-year apprenticeship at the [IBM Garage](https://www.ibm.com/cloud/architecture/careers), I’ve been working with cloud technologies as a full-stack software engineer.    
+I freshly graduated with my [engineering degree in Communication Systems and Computer Science](https://www.insa-lyon.fr/fr/formation/telecommunications-services-usages) - already having three years of work experience as a software engineer at [IBM Garage's best-practiced division](https://www.ibm.com/cloud/architecture/careers). Although my background is very technical, my passions are **product design**, **business**, and society. I'm a **detailed oriented** person highly qualified in **problem-solving** and with a strong sense of **leadership**.
 
-Many projects are stuck because they lack a product vision. I put my creativity, cross-functional knowledge, and problem-solving skills gained from my engineering background to work. I often take the lead and <!-- eventually --> obtain results, with the best grade or a satisfied client.    
+I'm on a mission to contribute to individual and collective intelligence, convinced it will positively and durably change our society! After applying Design Thinking at different levels and in different contexts - at work, during university team works, side-projects, NGOs, and events/challenges -, I honestly believe that focusing on the experience is the key. Put the user at the center; don't fall in love with the solution but the problem. I look for expressing and developing my creativity, sharing my technical expertise and leadership, and learning new things in my next role.
 
 Do you need a [Product Manager](https://www.quora.com/Why-do-engineers-become-product-managers/answer/Fareed-Mosavat?ch=3&share=5287df25&srid=3XLCB) that can bring your product to the next step? Reach me out.
-
-<!-- I'm looking for the Product Manager job that will put my creativity, leadership and engineering to work. -->
 
 ## Bio
 [See my full resume on LinkedIn]({{ site.linkedin }})
