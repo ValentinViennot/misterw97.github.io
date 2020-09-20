@@ -30,6 +30,14 @@
   tags:
     - text: Management
 
+- title: Creative Schools
+  author: Sir Ken Robinson
+  link: http://sirkenrobinson.com/creative-schools-the-grassroots-revolution-thats-transforming-education/
+  image: robinson.jpg
+  tags:
+    - text: Education
+      class: purple
+
 - title: Cinq leçons sur la psychanalyse
   author: Sigmund Freud
   link: https://www.amazon.fr/Cinq-le%C3%A7ons-psychanalyse-Sigmund-Freud-ebook/dp/B0098LGAQK
