@@ -3,6 +3,16 @@ layout: default
 mask_hidden: true
 ---
 
+<div style="
+    padding: 10px;
+    margin: 10px;
+    background-color: aliceblue;
+">
+<b>!</b> This page contains out of date information
+-
+visit <a href="https://www.linkedin.com/in/valentin-viennot/">LinkedIn</a> for latest updates.
+</div>
+
 # About Me
 
 > “A great product manager has the brain of an engineer, the heart of a designer, and the speech of a diplomat.” - Deep Nishar
