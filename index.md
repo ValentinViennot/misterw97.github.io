@@ -3,25 +3,17 @@ layout: default
 mask_hidden: true
 ---
 
-<div style="
-    padding: 10px;
-    margin: 10px;
-    background-color: aliceblue;
-">
-<b>!</b> This page contains out of date information
--
-visit <a href="https://www.linkedin.com/in/valentin-viennot/">LinkedIn</a> for latest updates.
-</div>
-
 # About Me
 
 > “A great product manager has the brain of an engineer, the heart of a designer, and the speech of a diplomat.” - Deep Nishar
 
-I freshly graduated with my [engineering degree in Communication Systems and Computer Science](https://www.insa-lyon.fr/fr/formation/telecommunications-services-usages) - already having three years of work experience as a software engineer at [IBM Garage's best-practiced division](https://www.ibm.com/cloud/architecture/careers). Although my background is very technical, my passions are **product design**, **business**, and society. I'm a **detailed oriented** person highly qualified in **problem-solving** and with a strong sense of **leadership**.
+Driven by a mission to contribute to individual and collective intelligence, I am convinced it will positively and durably change our society. After applying Design Thinking in different contexts, I believe that focusing on the source of the problem and its people is the key. Don’t fall in love with the solution but your users' pain.
 
-I'm on a mission to contribute to individual and collective intelligence, convinced it will positively and durably change our society! After applying Design Thinking at different levels and in different contexts - at work, during university team works, side-projects, NGOs, and events/challenges -, I honestly believe that focusing on the experience is the key. Put the user at the center; don't fall in love with the solution but the problem. I look for expressing and developing my creativity, sharing my technical expertise and leadership, and learning new things in my next role.
+I’m a young executive managing [product](https://www.quora.com/Why-do-engineers-become-product-managers/answer/Fareed-Mosavat?ch=3&share=5287df25&srid=3XLCB) at Canonical, the open-source company behind Ubuntu. I graduated with my [engineering degree](https://www.insa-lyon.fr/fr/formation/telecommunications-services-usages) in Communication Systems and Computer Science - already having experience as a software engineer at [IBM Garage](https://www.ibm.com/cloud/architecture/careers)’s best-practiced division. Although my background is highly technical, my passions are **product design**, **business**, and society. I’m a **detail-oriented** person, strongly qualified in **problem-solving**, and with a deep sense of **leadership**.
 
-Do you need a [Product Manager](https://www.quora.com/Why-do-engineers-become-product-managers/answer/Fareed-Mosavat?ch=3&share=5287df25&srid=3XLCB) that can bring your product to the next step? Reach me out.
+Open source isn’t only an opportunity to share knowledge to move faster and better together; it is an unbeatable weapon to drive positive change, durably. On a personal level, I look for expressing and developing my creativity, sharing my technical expertise and leadership, and continuously learning.
+
+Do you want to discuss interests overlap, opportunities, project ideas, or say hello? Reach out.
 
 ## Bio
 [See my full resume on LinkedIn]({{ site.linkedin }})
@@ -43,9 +35,13 @@ Working there I realized two main things:
 
 | <img src="/assets/img/logo-epfl.png" alt="EPFL" width="40"/> | **EPFL** | Exchange student | 2019-2020 | [details]({{ site.linkedin }}) |
 
-I needed to leave my <!-- engineer --> bubble. I spent one semester at the [EPFL](https://www.epfl.ch/schools/ic/communication-systems-msc/) with two goals: understanding user experience and acquiring knowledge about analytics and data science. Not only did I succeed in both while leading creative projects, but I also came back with a new mindset: entrepreneur is the right word for inventor!
+I needed to leave my bubble. I spent one semester at the [EPFL](https://www.epfl.ch/schools/ic/communication-systems-msc/) with two goals: understanding user experience and acquiring knowledge about analytics and data science. Not only did I succeed in both while leading creative projects, but I also came back with a new mindset: entrepreneur is the right word for inventor!
 
-All in all, I'm sure about my next step: I want to be a product manager – the CEO of the product. If you're looking for an "inventor" who's passionate, curious and motivated to learn; not only a thinker but a maker... let's chat and see how we are going to improve our world together!
+| <img src="/assets/img/logo-ubuntu.png" alt="Canonical" width="40"/> | **Canonical** | Executive Product Manager | 2020 | [details]({{ site.linkedin }}) |
+
+On a mission to contribute to individual and collective intelligence, I decided to put my creativity, cross-functional knowledge, and technical skills gained from my engineering background to work.
+
+As a Product Manager at Canonical, I work every day to improve the open-source world with the help of a precise and passionate community.
 
 > "Willing to think, Curious to learn, Enthusiastic about making" is my motto.
 
