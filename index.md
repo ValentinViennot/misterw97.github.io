@@ -35,15 +35,15 @@ Working there I realized mainly two things:
 
 | <img src="/assets/img/logo-epfl.png" alt="EPFL" width="40"/> | **EPFL** | Exchange student | 2019-2020 | [details]({{ site.linkedin }}) |
 
-Feeling restrained, I had the need to leave my bubble. I spent one semester at the [EPFL](https://www.epfl.ch/schools/ic/communication-systems-msc/) with two goals: understanding user experience and acquiring knowledge about analytics and data science. Working hard, leading creative projects, I achieved both these goals. Most importantly, it greatly increased my self-awareness. I am an entrepreneur.
+Restrained, I needed to leave my bubble. I spent one semester at the [EPFL](https://www.epfl.ch/schools/ic/communication-systems-msc/) with two goals: understanding user experience and acquiring knowledge about analytics and data science. Working hard, leading creative projects, I achieved both these goals. Most importantly, it greatly increased my self-awareness; I am an entrepreneur.
 
 | <img src="/assets/img/logo-ubuntu.png" alt="Canonical" width="40"/> | **Canonical** | Executive Product Manager | 2020 | [details]({{ site.linkedin }}) |
 
-At this point, it became clear to me that I only had two options: either start my own business, or become [Product Manager](https://productcoalition.com/you-are-not-the-ceo-9f665d0e4a46).
+At this point, it became clear to me I only had two options: either start my own business, or become [Product Manager](https://productcoalition.com/you-are-not-the-ceo-9f665d0e4a46).
 
-Then came [*the* question](http://paulgraham.com/procrastination.html), "What's the best thing you could be working on? And, why aren't you?". 
+Then came [*the* question](http://paulgraham.com/procrastination.html), **"What's the best thing you could be working on? and, why aren't you?".**
 
-On a mission to contribute to individual and collective intelligence, I decided to put my creativity, cross-functional knowledge, and technical skills gained from my engineering background to work and to contribute to Open Source.
+On a mission to contribute to individual and collective intelligence, I decided to put my creativity, cross-functional knowledge, and technical skills - gained from my engineering background - to work on Open Source.
 
 As a Product Manager for Canonical, I work every day to improve Open Source with the help of a precise and passionate community, following strong ethics and principles.
 
