@@ -4,7 +4,7 @@
   tags:
     - text: 2021
     - text: Canonical
-      class: purple
+      class: orange
   links:
     - name: Announcement (blog post)
       path: https://ubuntu.com/blog/canonical-publishes-lts-docker-image-portfolio-on-docker-hub
