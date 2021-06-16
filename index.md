@@ -7,14 +7,13 @@ mask_hidden: true
 
 > “A great product manager has the brain of an engineer, the heart of a designer, and the speech of a diplomat.” - Deep Nishar
 
-Driven by a mission to contribute to individual and collective intelligence, I am convinced it will positively and durably change our society. After applying Design Thinking in different contexts, I believe that focusing on the source of the problem and its people is the key. Don’t fall in love with the solution but your users' pain.
+Driven by a mission to contribute to individual and collective intelligence, I am convinced technology will positively and durably change our society. After applying Design Thinking in different contexts, I believe that focusing on the source of the problem and the *user experience* is the key. Don’t fall in love with the solution but your users' pain.
 
-I’m a young executive [product manager](https://www.quora.com/Why-do-engineers-become-product-managers/answer/Fareed-Mosavat?ch=3&share=5287df25&srid=3XLCB) for Canonical, the open-source company behind Ubuntu. I graduated with my [engineering degree](https://www.insa-lyon.fr/fr/formation/telecommunications-services-usages) in Communication Systems and Computer Science with honors - already having experience as a software engineer at [IBM Garage](https://www.ibm.com/cloud/architecture/careers)’s best-practiced division. Although my background is highly technical, my passions are **product design**, **business**, and society. I’m a **detail-oriented** person, strongly qualified in **problem-solving**, and with a deep sense of **leadership**.
+I’m a young executive [product manager](https://www.quora.com/Why-do-engineers-become-product-managers/answer/Fareed-Mosavat?ch=3&share=5287df25&srid=3XLCB) for Canonical, the open-source company behind Ubuntu. I graduated with my [engineering degree](https://www.insa-lyon.fr/fr/formation/telecommunications-services-usages) in Communication Systems and Computer Science with honors - already having experience as a software engineer at [IBM Garage](https://www.ibm.com/cloud/architecture/careers)’s best-practiced division. Although my background is highly technical, my passions are product design, business, and society. I’m a detail-oriented person, strongly qualified in problem-solving, and with a deep sense of leadership.
 
-Open source isn’t only an opportunity to share knowledge to move faster and better together; it is an strategic and powerful culture to drive positive change, durably. Improving the open source world is a first step in my contribution to individual and collective intelligence.
-On a personal level, I look for expressing and developing my creativity, sharing my technical expertise and leadership, and learning continuously.
+Open source isn’t only an opportunity to share our knowledge, moving faster and better together; it is a strategic and powerful culture to drive positive change, durably. Improving the open source world is a first step in my contribution to individual and collective intelligence. On a personal level, I look for expressing and developing my creativity, sharing my technical expertise and leadership, and endless learning.
 
-Do you want to discuss interests overlap, opportunities, project ideas, or say hello? Reach out.
+Do you want to discuss interests overlap, opportunities, project ideas, or say hello? [Reach out]({{ site.email }}).
 
 ## Bio
 [See my full resume on LinkedIn]({{ site.linkedin }})
@@ -29,20 +28,24 @@ As I couldn't wait any longer, I started to send applications to different compa
 
 | <img src="/assets/img/logo-ibm.png" alt="IBM" width="40"/> | **IBM** | Full-stack Software Engineer | 2017-2020 | [details]({{ site.linkedin }}) |
 
-That's how I joined IBM in 2017 for my apprenticeship as a full-stack engineer.
-Working there I realized two main things:
-- not only IT is part of any business, but it's disrupting all of them
-- design, and most importantly user-centered design, is core to innovation and building new ideas
+That's how, in 2017, I joined IBM beginning my apprenticeship as a full-stack engineer.
+Working there I realized mainly two things:
+- not only IT is part of any business, but it's disrupting all of them;
+- design, and most importantly user-centered design, is core to innovation and building new ideas.
 
 | <img src="/assets/img/logo-epfl.png" alt="EPFL" width="40"/> | **EPFL** | Exchange student | 2019-2020 | [details]({{ site.linkedin }}) |
 
-I needed to leave my bubble. I spent one semester at the [EPFL](https://www.epfl.ch/schools/ic/communication-systems-msc/) with two goals: understanding user experience and acquiring knowledge about analytics and data science. Not only did I succeed in both while leading creative projects, but I also came back with a new mindset: entrepreneur is the right word for inventor!
+Feeling restrained, I had the need to leave my bubble. I spent one semester at the [EPFL](https://www.epfl.ch/schools/ic/communication-systems-msc/) with two goals: understanding user experience and acquiring knowledge about analytics and data science. Working hard, leading creative projects, I achieved both these goals. Most importantly, it greatly increased my self-awareness. I am an entrepreneur.
 
 | <img src="/assets/img/logo-ubuntu.png" alt="Canonical" width="40"/> | **Canonical** | Executive Product Manager | 2020 | [details]({{ site.linkedin }}) |
 
-On a mission to contribute to individual and collective intelligence, I decided to put my creativity, cross-functional knowledge, and technical skills gained from my engineering background to work.
+At this point, it became clear to me that I only had two options: either start my own business, or become [Product Manager](https://productcoalition.com/you-are-not-the-ceo-9f665d0e4a46).
 
-As a Product Manager at Canonical, I work every day to improve the open-source world with the help of a precise and passionate community.
+Then came [*the* question](http://paulgraham.com/procrastination.html), "What's the best thing you could be working on? And, why aren't you?". 
+
+On a mission to contribute to individual and collective intelligence, I decided to put my creativity, cross-functional knowledge, and technical skills gained from my engineering background to work and to contribute to Open Source.
+
+As a Product Manager for Canonical, I work every day to improve Open Source with the help of a precise and passionate community, following strong ethics and principles.
 
 > "Willing to think, Curious to learn, Enthusiastic about making" is my motto.
 
