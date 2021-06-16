@@ -1,3 +1,26 @@
+- name: Ubuntu container images
+  hide: false
+  image: docker-ubuntu.png
+  tags:
+    - text: 2021
+    - text: Canonical
+      class: purple
+  links:
+    - name: Announcement (blog post)
+      path: https://ubuntu.com/blog/canonical-publishes-lts-docker-image-portfolio-on-docker-hub
+    - name: Website
+      path: https://ubuntu.com/security/docker-images
+    - name: Docker Hub 
+      path: https://hub.docker.com/u/ubuntu
+    - name: Amazon ECR Public
+      path: https://gallery.ecr.aws/?searchTerm=LTS&verified=verified
+    - name: Byline in TechRadar, "Containers at the Edge"
+      path: https://www.techradar.com/news/containers-at-the-edge-why-the-hold-up
+  description: |
+    My mission at Canonical focuses mainly on Container images (while also working on [Edge computing](https://www.techradar.com/news/containers-at-the-edge-why-the-hold-up) and Snapcraft.)
+
+    More information to be added soon.
+
 - name: InCube Challenge - Food Smart Grid
   image: incube.png
   tags:
