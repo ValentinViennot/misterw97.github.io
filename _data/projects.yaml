@@ -69,7 +69,7 @@
       class: purple
   links:
     - name: GitHub
-      path: https://github.com/misterw97/bluffer/
+      path: https://github.com/ValentinViennot/bluffer/
   description: |
     In these times of lockdown, it is critical to stay in touch with our friends and family. What's better for that than a great board game? Unfortunately, some of these games can merely be played remotely.    
     We could hijack our traditional messaging apps. But wouldn't it be funnier to focus on the game?    
@@ -84,7 +84,7 @@
       class: red
   links:
     - name: GitHub
-      path: https://github.com/misterw97/Much-Match
+      path: https://github.com/ValentinViennot/Much-Match
   description: |
     "The near-unlimited choice of items presented in online stores leads users on journeys of untargeted and unsatisfying scrolling through bottomless pages on the search for products they like."
 
@@ -101,7 +101,7 @@
       class: red
   links:
     - name: GitHub
-      path: https://github.com/misterw97/ntds_kitchen_science
+      path: https://github.com/ValentinViennot/ntds_kitchen_science
     - name: Demo
       path: http://kitchen-science.eu-gb.mybluemix.net/
   description: |
@@ -199,7 +199,7 @@
     - name: Website
       path: https://agendapp.fr/
     - name: GitHub (frontend - web)
-      path: https://github.com/misterw97/agendacollaboratif_web
+      path: https://github.com/ValentinViennot/agendacollaboratif_web
   description: |
     When I joined the preparatory cycle at INSA Lyon, I was having trouble remembering or just paying attention to the teachers giving us homework.    
     I observed many former high school students having the same issue. While assignments were pretty clear in high school, they were just one quick sentence, often unclear, at the end of a lecture or an exercise series in University. Almost every day, someone had to ask on our Facebook group, "do we need to do anything for tomorrow?".    
