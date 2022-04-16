@@ -13,8 +13,7 @@
   link: https://www.goodbooks.io/books/who-moved-my-cheese
   image: who-moved-my-cheese.jpg
   tags:
-    - text: Change Management
-      class: green
+    - text: Management
 
 - title: The Five Dysfunctions of a Team
   author: Patrick Lencioni
