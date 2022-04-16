@@ -38,6 +38,16 @@
     - text: Education
       class: purple
 
+- title: Une histoire de l'informatique
+  author: Philippe Breton
+  link: https://www.amazon.fr/Une-histoire-linformatique-Philippe-Breton/dp/2020123487
+  image: histoire-informatique.jpeg
+  tags:
+    - text: Philo
+      class: orange
+    - text: Technology
+      class: red
+
 - title: Cinq leçons sur la psychanalyse
   author: Sigmund Freud
   link: https://www.amazon.fr/Cinq-le%C3%A7ons-psychanalyse-Sigmund-Freud-ebook/dp/B0098LGAQK
