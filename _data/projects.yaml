@@ -2,24 +2,58 @@
   hide: false
   image: docker-ubuntu.png
   tags:
-    - text: 2021
+    - text: 2022
     - text: Canonical
       class: orange
   links:
+    - name: .NET x Chiselled Ubuntu container images
+      path: https://ubuntu.com/blog/install-dotnet-on-ubuntu
     - name: Announcement (blog post)
       path: https://ubuntu.com/blog/canonical-publishes-lts-docker-image-portfolio-on-docker-hub
     - name: Website
       path: https://ubuntu.com/security/docker-images
     - name: Docker Hub 
       path: https://hub.docker.com/u/ubuntu
-    - name: Amazon ECR Public
-      path: https://gallery.ecr.aws/?searchTerm=LTS&verified=verified
     - name: Byline in TechRadar, "Containers at the Edge"
       path: https://www.techradar.com/news/containers-at-the-edge-why-the-hold-up
   description: |
-    My mission at Canonical focuses mainly on Container images (while also working on [Edge computing](https://www.techradar.com/news/containers-at-the-edge-why-the-hold-up) and Snapcraft.)
+    Ubuntu's mission is to bring free software to the widest audience. Nowadays, the most significant barrier to adopting open source software is security and supply chain vulnerabilities. This concern is particularly valid with cloud-native software packaged as container images. There's a need to make Open Source an exact science.
 
-    More information to be added soon.
+    For this, Canonical is becoming the industry's one-stop shop for open-source software, delivering Debian packages, Snaps, and container images; and offering developers the tooling and infrastructure to build artefacts designed for a secure software supply chain.
+
+    With the Containers team, we are building declarative tooling to craft new, ultra-small, OCI-compliant container images based on the Ubuntu content already known and trusted by millions of developers.
+
+    I recently announced with Canonical and Microsoft a new class of container images:
+    Chiselled Ubuntu containers.
+    These are from-scratch, ultra-small container images built with strictly minimal set of files and dependencies from the Ubuntu LTS distribution.
+
+    **In a few words: all of the advantages of a real Linux distribution on Docker images, without the overhead!**
+
+- name: Black and white colouriser
+  hide: false
+  image: colouriser.webp
+  tags:
+    - text: 2021
+    - text: Canonical
+      class: orange
+    - text: Project
+      class: purple
+  links:
+    - name: Full blog post (on the Docker blog)
+      path: https://www.docker.com/blog/how-to-colorize-black-white-pictures-ubuntu-containers/
+    - name: Part 1 (on the Ubuntu blog)
+      path: https://ubuntu.com/blog/how-to-colourise-black-white-pictures-openvino-containers-part-1
+    - name: Part 2 (on the Ubuntu blog)
+      path: https://ubuntu.com/blog/how-to-colourise-black-white-pictures-openvino-containers-part-2
+    - name: Intel partnership announcement (on the Ubuntu blog)
+      path: https://ubuntu.com/blog/secure-containers-supply-chain-intel-openvino-canonical
+  description: |
+    "If you’re looking to bring a stack of old family photos back to life, check out Ubuntu’s demo on how to use OpenVINO on Ubuntu containers to colorize monochrome pictures. This magical use of containers, neural networks, and Kubernetes is packed with helpful resources and a fun way to dive into deep learning!"
+
+    I created this demo as part of a demonstration of Intel OpenVINO™ on Ubuntu containers: from the consistently outstanding developer experience to the added trust to your software supply chain.
+
+    The blog post contains the instructions, explanations, and source code to create a web micro service (with a GUI!) taking black and white pictures and turning them into coloured photographs!
+    The demo is running in Ubuntu container images and splitted into micro services deployed onto MicroK8s.
 
 - name: InCube Challenge - Food Smart Grid
   image: incube.png
