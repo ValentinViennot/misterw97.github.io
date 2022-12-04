@@ -7,47 +7,39 @@ mask_hidden: true
 
 > “A great product manager has the brain of an engineer, the heart of a designer, and the speech of a diplomat.” - Deep Nishar
 
-Driven by a mission to contribute to individual and collective intelligence, I am convinced technology will positively and durably change our society. After applying Design Thinking in different contexts, I believe that focusing on the source of the problem and the *user experience* is the key. Don’t fall in love with the solution but your users' pain.
+With a passion for turning ideas into innovative solutions and a strong technical background in communication systems and computer science, I am driven by a mission to increase individual and collective intelligence through open source software. As a young executive [product manager](https://www.quora.com/Why-do-engineers-become-product-managers/answer/Fareed-Mosavat?ch=3&share=5287df25&srid=3XLCB) for Canonical, the open-source company behind Ubuntu, I am leading a major initiative to make the Ubuntu brand a leader in container images, including most recently with the creation of a new "chiselled Ubuntu" Distroless-type flavor for .NET developers.
 
-I’m a young executive [product manager](https://www.quora.com/Why-do-engineers-become-product-managers/answer/Fareed-Mosavat?ch=3&share=5287df25&srid=3XLCB) for Canonical, the open-source company behind Ubuntu. I graduated with my [engineering degree](https://www.insa-lyon.fr/fr/formation/telecommunications-services-usages) in Communication Systems and Computer Science with honors - already having experience as a software engineer at [IBM Garage](https://www.ibm.com/cloud/architecture/careers)’s best-practiced division. Although my background is highly technical, my passions are product design, business, and society. I’m a detail-oriented person, strongly qualified in problem-solving, and with a deep sense of leadership.
+In addition to my technical skills and expertise, I am also passionate about product design, business, and society, and I seek to express and develop my creativity in these areas. My personal goals include sharing my technical expertise and leadership, and continuing to learn and grow as a person. If you're looking for someone who can turn complex challenges into simple solutions, and make a real impact in the world through open source software, let's work together and make our intelligence soar.
 
-Open source isn’t only an opportunity to share our knowledge, moving faster and better together; it is a strategic and powerful culture to drive positive change, durably. Improving the open source world is a first step in my contribution to individual and collective intelligence. On a personal level, I look for expressing and developing my creativity, sharing my technical expertise and leadership, and endless learning.
-
-Do you want to discuss interests overlap, opportunities, project ideas, or say hello? [Reach out]({{ site.email }}).
+If you would like to discuss interests overlap, opportunities, project ideas, or say hello, please don't hesitate to reach out.
 
 ## Bio
+
 [See my full resume on LinkedIn]({{ site.linkedin }})
 
-I've always wanted to be an inventor. Since I was a child, I wanted to solve all the problems with my ideas -- often causing my parents and sisters to yell at me, until they eventually told me: "Valentin, you need to be an engineer". Was that the word for an inventor? Without a doubt, I joined the top-ranked INSA de Lyon engineering school right after graduating from High School.
+> "The best way to predict the future is to invent it." - Alan Kay
+
+I’ve always wanted to be an inventor. Since I was a child, I wanted to solve all the problems with my ideas – often causing my parents and sisters to yell at me, until they eventually told me: “Valentin, you need to be an engineer”. Was that the word for an inventor? Without a doubt, I joined the top-ranked INSA de Lyon engineering school right after graduating from High School.
 
 | <img src="/assets/img/logo-insa.png" alt="INSA Lyon" width="40"/> | **INSA Lyon** | Communications Systems | 2015-2020 | [details]({{ site.linkedin }}) |
 
-Learning how to code for some side-projects, I quickly realized it was the perfect way to bring all my inventions to life. More than that, programming isn't related to only one field and neither were my ideas.
-
-As I couldn't wait any longer, I started to send applications to different companies to join the Master of IT and Communication Systems in apprenticeship.
+At INSA de Lyon, I sought to develop a broad range of skills and knowledge, and to learn how to communicate complex ideas and concepts with other smart people. I also learned how to code for some side-projects, and I quickly realized that programming was the perfect way to bring my inventions to life.
 
 | <img src="/assets/img/logo-ibm.png" alt="IBM" width="40"/> | **IBM** | Full-stack Software Engineer | 2017-2020 | [details]({{ site.linkedin }}) |
 
-That's how, in 2017, I joined IBM beginning my apprenticeship as a full-stack engineer.
-Working there I realized mainly two things:
-- not only IT is part of any business, but it's disrupting all of them;
-- design, and most importantly user-centered design, is core to innovation and building new ideas.
+Looking for a new challenge, I applied for an apprenticeship with IBM and the [IBM Garage](https://www.ibm.com/cloud/architecture/careers), where I worked as a full-stack engineer. My time at IBM taught me two important lessons: first, that IT is at the heart of every business and is driving disruption in every industry; and second, that user-centered design is essential for innovation and the development of new ideas.
 
 | <img src="/assets/img/logo-epfl.png" alt="EPFL" width="40"/> | **EPFL** | Exchange student | 2019-2020 | [details]({{ site.linkedin }}) |
 
-Restrained, I needed to leave my bubble. I spent one semester at the [EPFL](https://www.epfl.ch/schools/ic/communication-systems-msc/) with two goals: understanding user experience and acquiring knowledge about analytics and data science. Working hard, leading creative projects, I achieved both these goals. Most importantly, it greatly increased my self-awareness; I am an entrepreneur.
+Seeking to further develop my skills in user experience and data science, I spent one semester at the EPFL. This experience helped me gain a better understanding of these fields, and it also increased my self-awareness – I realized that I am an entrepreneur at heart.
 
 | <img src="/assets/img/logo-ubuntu.png" alt="Canonical" width="40"/> | **Canonical** | Executive Product Manager | 2020 | [details]({{ site.linkedin }}) |
 
-At this point, it became clear to me I only had two options: either start my own business, or become [Product Manager](https://productcoalition.com/you-are-not-the-ceo-9f665d0e4a46).
+> **"What's the best thing you could be working on? and, why aren't you?".** — [Paul Graham](http://paulgraham.com/procrastination.html)
 
-Then came [*the* question](http://paulgraham.com/procrastination.html), **"What's the best thing you could be working on? and, why aren't you?".**
+Faced with the decision to start my own business [or](https://productcoalition.com/you-are-not-the-ceo-9f665d0e4a46) become a product manager, I decided to pursue the latter, with a focus on open source software. As a product manager for Canonical, I work every day to improve open source and make it sustainable, while also gaining valuable product management skills and contributing to the broader goal of increasing human intelligence.
 
-On a mission to contribute to individual and collective intelligence, I decided to put my creativity, cross-functional knowledge, and technical skills - gained from my engineering background - to work on Open Source.
-
-As a Product Manager for Canonical, I work every day to improve Open Source with the help of a precise and passionate community, following strong ethics and principles.
-
-> "Willing to think, Curious to learn, Enthusiastic about making" is my motto.
+"Willing to think, Curious to learn, Enthusiastic about making" is my motto.
 
 <!--
 Minified version:
@@ -59,6 +51,8 @@ I'm determined about my next move: If you're looking for a Product Manager who's
 -->
 
 ## Portfolio
+
+> "The most valuable thing you can make is a mistake - you can't learn anything from being perfect." - Adam Osbourne
 
 This section is about some projects I led and have done a significant part.
 Whether it’s side or school projects, I’d be happy to discuss them with you!
@@ -86,9 +80,18 @@ Some of them link to a more detailed README, some are just a title and a short d
 <!-- ## Ideas
 Some project ideas I had but I haven't done (yet). 
 
+> "It's not about ideas. It's about making ideas happen." - Scott Belsky
+
+> "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
+
+> "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
+
 Work in progress... Coming soon! -->
 
 ## Books
+
+> "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+
 Some books I've read, liked, and would recommend.
 
 {% for book in site.data.books %}
