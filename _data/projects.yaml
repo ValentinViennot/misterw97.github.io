@@ -186,11 +186,11 @@
     - text: IBM
       class: green
   description: |
-    During my apprenticeship at IBM, I had the opportunity to join the London Garage team as a two-month mobility project. The IBM Cloud Garage is running Design Thinking workshops and developing MVP (Minimum Viable Products), working directly with the client applying agile principles and methodology.    
-      
-    The London team has many internal projects to develop new skills and try out new technologies/frameworks. One central project was the "pipeline dashboard," showing data about CI/CD configured on the different projects. This project was forked from quite an old framework and needed new integrations. Additionally, we wanted to try Vue.JS before using it on external projects.    
-    I proposed to re-design the dashboard, both UI and architecture. After getting advice from the lead designer and an architect from our team, I prototyped and developed a new working dashboard based on a microservices architecture.    
-    The team was delighted with the new solution. I even had time to integrate it into another internal project, an IoT alert system.    
+    During my apprenticeship at IBM, I had the opportunity to join the London Garage team for a two-month mobility project. The IBM Cloud Garage is a workspace where teams run Design Thinking workshops and develop MVPs (Minimum Viable Products) using agile principles and methodology.
+
+    One of the internal projects I worked on was the "pipeline dashboard," which showed data about CI/CD configured on different projects. The existing dashboard was based on an outdated framework and needed new integrations. I proposed a redesign of both the UI and architecture, incorporating Vue.JS. After getting feedback from the lead designer and an architect on the team, I prototyped and developed a new working dashboard based on a microservices architecture. The team was happy with the solution, and I was able to integrate it into another internal project.
+
+    Through this project, I learned the importance of collaboration and incorporating feedback in design and development. This experience at the London IBM Garage provided me with valuable skills and insights that I have continued to apply throughout my three-year apprenticeship at IBM.
 
 - name: Wavestone
   image: wavestone.png
