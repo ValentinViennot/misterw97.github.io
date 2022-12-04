@@ -6,16 +6,6 @@
     - text: Product Management
       class: purple
 
-- title: Hooked
-  author: Nir Eyal
-  link: https://www.goodbooks.io/books/hooked
-  image: hooked.jpg
-  tags:
-    - text: Product Design
-      class: purple
-    - text: Technology
-      class: red
-
 - title: Who Moved My Cheese?
   author: Dr. Spencer Johnson
   link: https://www.goodbooks.io/books/who-moved-my-cheese
@@ -29,6 +19,16 @@
   image: five-dysfunctions.jpg
   tags:
     - text: Management
+
+- title: Hooked
+  author: Nir Eyal
+  link: https://www.goodbooks.io/books/hooked
+  image: hooked.jpg
+  tags:
+    - text: Product Design
+      class: purple
+    - text: Technology
+      class: red
 
 - title: Scrum en action
   author: Guillaume Bodet
