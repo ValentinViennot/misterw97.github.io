@@ -1,3 +1,11 @@
+- title: Inspired
+  author: Marty Cagan
+  link: https://www.goodbooks.io/books/inspired
+  image: inspired.jpg
+  tags:
+    - text: Product Management
+      class: purple
+
 - title: Hooked
   author: Nir Eyal
   link: https://www.goodbooks.io/books/hooked
