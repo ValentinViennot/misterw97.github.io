@@ -1,3 +1,11 @@
+- name: Pindex
+  hide: true
+  description: TODO
+
+- name: Dynamico.ch
+  hide: true
+  description: TODO
+
 - name: Ubuntu container images
   hide: false
   image: docker-ubuntu.png
