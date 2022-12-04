@@ -35,11 +35,10 @@ Seeking to further develop my skills in user experience and data science, I spen
 
 | <img src="/assets/img/logo-ubuntu.png" alt="Canonical" width="40"/> | **Canonical** | Executive Product Manager | 2020 | [details]({{ site.linkedin }}) |
 
-> **"What's the best thing you could be working on? and, why aren't you?".** — [Paul Graham](http://paulgraham.com/procrastination.html)
-
 Faced with the decision to start my own business [or](https://productcoalition.com/you-are-not-the-ceo-9f665d0e4a46) become a product manager, I decided to pursue the latter, with a focus on open source software. As a product manager for Canonical, I work every day to improve open source and make it sustainable, while also gaining valuable product management skills and contributing to the broader goal of increasing human intelligence.
 
-"Willing to think, Curious to learn, Enthusiastic about making" is my motto.
+<!-- > "What's the best thing you could be working on? and, why aren't you?". — [Paul Graham](http://paulgraham.com/procrastination.html) -->
+
 
 <!--
 Minified version:
