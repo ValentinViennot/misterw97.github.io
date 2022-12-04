@@ -50,12 +50,11 @@ After spending a semester at the EPFL studying user experience and data science,
 I'm determined about my next move: If you're looking for a Product Manager who's passionate, curious and motivated to learn; not only a thinker but a maker... let's chat and see how we are going to improve our world together!
 -->
 
-## Portfolio
+## Projects and Contributions
 
 > "The most valuable thing you can make is a mistake - you can't learn anything from being perfect." - Adam Osbourne
 
-This section is about some projects I led and have done a significant part.
-Whether it’s side or school projects, I’d be happy to discuss them with you!
+Welcome to my portfolio of projects and contributions! In this section, you'll find a selection of my most significant and noteworthy work. From side projects to school assignments, each of these projects showcases my passion for innovation, problem-solving, and making a real impact in the world. Whether you're looking for inspiration, guidance, or simply want to learn more about my work, I invite you to explore these projects and discover the magic that happens when creativity and technical expertise come together. Let's talk!
 
 <!-- First one is the most recent active one.
 Some of them link to a more detailed README, some are just a title and a short description... There's no ground rule! -->
@@ -88,11 +87,11 @@ Some project ideas I had but I haven't done (yet).
 
 Work in progress... Coming soon! -->
 
-## Books
+## Books I've Read and Recommend
 
 > "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 
-Some books I've read, liked, and would recommend.
+I've included a list of some of the books that have had the biggest impact on me, and that I would recommend to others.
 
 {% for book in site.data.books %}
 #### {{ book.title }} <span class="author">By {{ book.author }}</span>  {% for tag in book.tags %}<span class="tag {{ tag.class }}">{{ tag.text }}</span>{% endfor %}

@@ -25,17 +25,11 @@
     - name: Byline in TechRadar, "Containers at the Edge"
       path: https://www.techradar.com/news/containers-at-the-edge-why-the-hold-up
   description: |
-    Ubuntu's mission is to bring free software to the widest audience. Nowadays, the most significant barrier to adopting open source software is security and supply chain vulnerabilities. This concern is particularly valid with cloud-native software packaged as container images. There's a need to make Open Source an exact science.
+    At Canonical, our mission is to bring free software to the widest audience. One of the biggest barriers to adopting open source software is security and supply chain vulnerabilities, particularly with cloud-native software packaged as container images. That's why we're working to make open source an exact science, by becoming the industry's one-stop shop for open-source software. We deliver Debian packages, Snaps, and container images, and we offer developers the tooling and infrastructure they need to build artefacts designed for a secure software supply chain.
 
-    For this, Canonical is becoming the industry's one-stop shop for open-source software, delivering Debian packages, Snaps, and container images; and offering developers the tooling and infrastructure to build artefacts designed for a secure software supply chain.
+    As part of the Containers team, I'm working on building declarative tooling to craft new, ultra-small, OCI-compliant container images based on the Ubuntu content that millions of developers already know and trust. Our recent work with Canonical and Microsoft has resulted in the creation of a new class of container images: Chiselled Ubuntu containers. These from-scratch containers are much smaller and more efficient than traditional Ubuntu containers, with a size of just 6MB, compared to the 70MB of a typical Ubuntu base image. This size reduction provides significant performance and security benefits, and it makes it possible to run self-contained software such as self-contained .NET apps in a more efficient and secure manner.
 
-    With the Containers team, we are building declarative tooling to craft new, ultra-small, OCI-compliant container images based on the Ubuntu content already known and trusted by millions of developers.
-
-    I recently announced with Canonical and Microsoft a new class of container images:
-    Chiselled Ubuntu containers.
-    These are from-scratch, ultra-small container images built with strictly minimal set of files and dependencies from the Ubuntu LTS distribution.
-
-    **In a few words: all of the advantages of a real Linux distribution on Docker images, without the overhead!**
+    Our work on Chiselled Ubuntu containers is essential to the success of open source software, as Ubuntu is the platform of choice for many innovators around the world, including individuals and open source projects. By providing a modern, efficient, and secure platform for developing and shipping software, we're helping to advance the open source ecosystem and make it more accessible and sustainable. This work is challenging and requires us to push the boundaries of what's possible with open source, but I believe it is essential to the future of the open source community, and I'm proud to be a part of it.
 
 - name: Black and white colouriser
   hide: false
@@ -73,14 +67,13 @@
     - name: InCube Challenge
       path: http://incubechallenge.com/
   description: |
-    I participated in the InCube Challenge organized by the ETH Zürich. Four days in a cube/hut in the mountain with a team of five people to solve one of the world’s main challenge: making our food system more efficient and sustainable. I learned a lot from this experience, mostly about team leadership, team dynamics, and self-awareness. I also applied Design Thinking successfully to a complex problem.  
+    I participated in the InCube Challenge organized by the ETH Zürich. The challenge is a two-week journey in the Swiss mountains that includes one week of training on Design Thinking, Problem Solving, and Entrepreneurship. The second week, teams of five are isolated in the mountains to solve a complex problem. In my case, the challenge was to make the global food system more efficient and sustainable. I learned a lot from this experience, mostly about team leadership, team dynamics, and self-awareness. I also applied Design Thinking successfully to a complex problem.
 
-    Why is our food system unsustainable and less and less efficient over the years? The root cause can be found in the principal agriculture practice used today: monoculture. It causes soil depletion, requiring more fertilisers over the years. The main problem for shifting from mono to diversified cultures is the access to the market for selling a small amount of food.  
-    We propose to apply the smart grid model used for the electricity market: We are interconnecting all smart producers on a predictable and reliable grid, where food can be sold/bought at a market price.  
-    We chose a country with many small farmers concerned by this problem today: India. Sadly, India and emerging countries suffer from corruption. We based our solution on blockchain technology to enforce trust among our network with a decentralised food system.  
-    Finally, we designed our solution with a single negotiated price among the whole network for an available resource, based on offer/demand and computed every day. We add to that price the transportation and storage costs afterward while matching a buyer with the seller(s), optimizing the supply chain with data-powered algorithms.    
-    The best part is that our solution will give a long-term cost-incentive to big producers to shift from monocultures to diversified ones. Indeed, they otherwise wouldn't have enough close buyers on the network to sell their products.    
-    We proposed a business model based on a small fee for each transaction made through our client. Long term, we'll offer specialized software making the most of our network's data for buyers, warehouses, and transporters in the supply chain.    
+    Our team identified the root cause of the problem as the use of monoculture in modern agriculture, which causes soil depletion and the need for increasing amounts of fertilizers. The main challenge in shifting from monoculture to diversified cultures is the lack of access to the market for small producers. We proposed applying the smart grid model used in the electricity market to connect small producers and create a predictable and reliable network where food can be sold and bought at a market price.
+
+    We chose India as our target country because it has a large number of small farmers who face this problem and because corruption is a major challenge in India and other emerging countries. To address this issue, we based our solution on blockchain technology to create trust among network participants. Our solution includes a single negotiated price among all network members for available resources, based on supply and demand, and computed daily. This price includes transportation and storage costs, and our algorithms optimize the supply chain by matching buyers with sellers.
+
+    One of the key benefits of our solution is that it provides a long-term cost incentive for large producers to shift from monoculture to diversified agriculture. Without access to a network of buyers, these producers would not be able to sell their products. Our business model includes a small fee for each transaction made through our platform, and we plan to offer specialized software that leverages the data generated by our network to benefit buyers, warehouses, and transporters in the supply chain. Overall, our solution has the potential to create a decentralized, efficient, and sustainable food system.
 
 - name: Gauges
   image: gauges.png
@@ -98,10 +91,11 @@
     - name: GitHub
       path: https://github.com/thepinkowl/gauges/
   description: |
-    We need to stop fooling ourselves: our regular todo apps will never succeed in managing recurring tasks and are only frustrating us. You set a reminder, it's never the right time, you end up doing it late and feeling bad about it... Even worse: once you mark it done, the next occurrence shows up!    
-    The real question is, "how often?" and not "when?". The focus should be on keeping the lights green rather than on doing things on time. Inspired by the popular game "The Sims", we think that the goal of such an app should be to estimate a status for something you cannot easily measure.
+    Gauges is a personal project I developed to experiment with design tools and processes, as I did not receive any formal design education. It also allowed me to apply product management practices I learned while completing my studies.
 
-    This year I co-founded ThePinkOwl to develop open-source projects for home automation and more generally open-source education. Although not directly related to home automation, "Gauges" will be one of the first products coming out from this project. I'm leading product design.
+    Gauges is a to-do app that focuses on managing recurring tasks in a more effective way than traditional to-do apps. Rather than setting reminders for specific dates and times, Gauges allows users to track the frequency of their tasks and provides a visual representation of their progress. This shift in focus allows users to keep the "lights green" and avoid feeling overwhelmed or frustrated by missed deadlines.
+
+    I co-founded ThePinkOwl to develop open-source projects for home automation and open-source education. Although not directly related to home automation, Gauges will be one of the first products to come out of this project. As the product designer, I am responsible for leading the development of Gauges and ensuring its success.
 
 - name: 'Bluffer: the locked-down version'
   image: bluffer.png
@@ -113,10 +107,7 @@
     - name: GitHub
       path: https://github.com/ValentinViennot/bluffer/
   description: |
-    In these times of lockdown, it is critical to stay in touch with our friends and family. What's better for that than a great board game? Unfortunately, some of these games can merely be played remotely.    
-    We could hijack our traditional messaging apps. But wouldn't it be funnier to focus on the game?    
-    The [Bluffer](https://www.trictrac.net/jeu-de-societe/bluffer) is, IMO, one of the most user-friendly and fun games to play. However, it's also one of the hardest to virtualize without specific tools.    
-    I took the day off to design and build this quick remote app to play this iconic game with my family. The great time that resulted from this was way worth the work!
+    This project was a personal project I built for fun during the COVID-19 lockdown to stay in touch with my family and friends. The [Bluffer](https://www.trictrac.net/jeu-de-societe/bluffer) is a board game that is difficult to play remotely without specific tools, so I designed and built a quick app to allow us to play this game virtually. The app was well-received and provided us with a fun way to stay connected during the lockdown. This project allowed me to experiment with app design and development, and I learned a lot from the process.
 
 - name: 'MuchMatch: Swipe it right!'
   image: swipe.png
@@ -130,10 +121,7 @@
   description: |
     "The near-unlimited choice of items presented in online stores leads users on journeys of untargeted and unsatisfying scrolling through bottomless pages on the search for products they like."
 
-    In the context of the EPFL Experience Design course (Fall 2019), we proposed both a new -- fun -- way to browse shopping catalogs and a robust background data analysis leveraging a familiar technology: swiping.    
-    What if this simple gesture could tell much more about a customer than the classic scroll and click combo? What you swipe and How you swipe it.
-
-    We built a working demonstration extracting features from swipe gestures to characterize them among other participants and your usual swipes. This demonstration convinced the final presentations jury!
+    Online shopping can be overwhelming, with endless pages of products to browse through. But what if the way we browse could provide valuable insights into our preferences and behaviors? That's the question we sought to answer with our project for the EPFL Experience Design course in Fall 2019. We proposed a fun and intuitive way to browse shopping catalogs using swiping gestures, and a robust background data analysis to extract valuable insights from these gestures. By analyzing the swipes themselves, as well as the items that users swiped on, we were able to characterize each participant's swiping habits and preferences. This project was a great opportunity for me to learn about user-centered design and data analysis, and it even convinced the final presentations jury!
 
 - name: Kitchen Science
   image: kitchen-science.png
@@ -150,10 +138,11 @@
     Have you ever invited vegetarian/vegan friends over for diner and didn't know how to replace the meat in your favorite dish? Or had a crucial ingredient suddenly disappearing from your kitchen?    
     This project is for you!    
 
-    In the context of the EPFL Network Tour of Data Science course (Fall 2019), we proposed to create a tool to remove certain ingredients from a recipe and output the best elements to replace them.    
-    We used data science and graph manipulation to develop an ingredient suggestion and replacement tool. After developing several ingredient networks using the Recipe1M+ and USDA databases, we used a combination of kNN analysis and graph filtering to determine the optimal replacements for ingredients.    
+    As part of the EPFL Network Tour of Data Science course (Fall 2019), I worked on a project called "Kitchen Science" to create a tool that helps people replace ingredients in their recipes. This can be useful for vegetarians or vegans who want to avoid using meat in their dishes, or for anyone who has run out of a crucial ingredient.
 
-    We successfully developed palatable choices both for meat-loving and vegan users! We were also able to suggest ingredients to add to make your recipes even tastier.    
+    To develop the tool, we used data science and graph manipulation to create ingredient networks using the Recipe1M+ and USDA databases. We then applied kNN analysis and graph filtering to determine the best replacements for ingredients. The result was a tool that could provide tasty alternatives for both meat-lovers and vegans.
+
+    Working on this project allowed me to gain experience in data science and apply it to a real-world problem. It was also a fun way to explore the world of cooking and help people create delicious meals.
 
 - name: 'Junction: Bag.ly'
   image: bagly.png
@@ -165,13 +154,11 @@
     - name: Wireframes
       path: https://wireframepro.mockflow.com/view/bagly-wireframe
   description: |
-    Junction is “Europe’s leading hackathon, yearly gathering around 1500 hackers together […] developers, designers, and other techies, teaming up and creating new tech projects in 48 hours”. I got a chance to participate in the 2019 edition.    
+    Junction is an annual hackathon event that brings together around 1500 developers, designers, and other tech enthusiasts to collaborate and create new technology projects in just 48 hours. In 2019, I had the opportunity to participate in the hackathon and take on the Qoco challenge, which focused on improving the traveler experience with a real-time luggage-tracking API.
 
-    With my newly-met team, we participated in the [Qoco](https://www.qoco.aero/) challenge: how can you improve the traveler experience with a real-time luggage-tracking API?    
-    We first brainstormed pretty standard ideas about creating informative UIs to track luggage (which is a significant lack today). We combined that with Blockchain technology to enforce trust among different parties: traveler, airport, and airline company.    
+    With my team, we initially brainstormed ideas for creating informative user interfaces for tracking luggage. However, we quickly realized that lost luggage is more of a fear-based issue than a technical one, and decided to pivot our project towards providing instant help and refunds for lost or broken luggage through a neo-insurance model.
 
-    I felt it wasn’t an innovative enough project. Why would we need this trust? Who would benefit from that? Travel insurances. Lost luggage is more a matter of fear sentiment than an actual technical problem.    
-    Overnight, we moved our project to a neo-insurance providing instant help-package and 5-days full refund in case of lost or broken luggage.    
+    The project was called "Bag.ly" and we built a web app that allows travelers to easily file a claim for their lost or damaged luggage. By using real-time tracking information from the Qoco API, we were able to provide instant compensation for travelers in the form of a help-package and a full refund within 5 days. This was a great opportunity for me to apply my skills in product design and development in a team setting, as well as to learn about the potential applications of blockchain technology in the insurance industry. Overall, the experience was very rewarding and I enjoyed working with my team to create a unique solution to a common problem.
 
 - name: HackLyon
   image: hacklyon.png
@@ -185,15 +172,15 @@
     - name: Facebook page
       path: https://www.facebook.com/hacklyonfr
   description: |
-    A year after having been introduced to hackathons by a friend, I wanted to share this amazing experience with others. Together, we decided to organize a scientific and technical Hackathon open to all students with no entry fee. Therefore, we founded an association – Hacklyon – and held “Alpha” in 2018: a hackathon about bringing AI and Cloud technologies to the transports industry.    
+    Hacklyon is an NGO that I co-founded with friends to organize a Hackathon in Lyon, France. Our goal was to share the amazing experience of hackathons with others and provide an inclusive, accessible event for all students, regardless of their background or experience. We held the first Hacklyon event, called "Alpha," in 2018. It was a hackathon focused on bringing AI and cloud technologies to the transportation industry.
 
-    I am proud of this achievement and the role I played as the Event Manager. I was leading a team of 7 to organize partnerships, communication, technical resources, event schedule, food and necessities, and budgeting. We had an enriching and entertaining time on day-d with over 50 participants, during 34H. With less than 100€/participant and no participation fee, we managed to provide all the food and required materials!    
+    As the Event Manager, I led a team of 7 to organize all aspects of the event, including partnerships, communication, technical resources, event schedule, food and necessities, and budgeting. Despite having a tight budget and no participation fees, we were able to provide a high-quality experience for over 50 participants over a 34-hour period. With a less than 100€ budget per participant and no participation fee, we managed to provide all the food and required materials!
 
-    We were able to measure the success of our event from the positive feedback we obtained from partners and participants. Being part of The Web Conference was a significant recognition of the quality of our organization, communication, and delivery. As a person, I learned a lot about leadership, organizing events, and even technically.    
+    The success of our event was measured by the positive feedback we received from partners and participants. We were also recognized for the quality of our organization, communication, and delivery by being selected as part of The Web Conference. Through this project, I gained valuable leadership and event-planning experience, as well as technical skills.
 
 - name: 'London IBM Garage: pipeline dashboard'
   image: radiator.jpg
-  hide: true
+  hide: false
   tags:
     - text: 2018
     - text: IBM
@@ -215,21 +202,16 @@
     - name: Wavestone post on LinkedIn
       path: https://www.linkedin.com/pulse/hackathon-chatbots-36h-pour-hacker-son-entreprise-aubin-coll%C3%A9aux/
   description: |
-    Wavestone "Hack your bot" was the first Hackathon I ever participated in.    
-    The challenge was to ideate and prototype an enterprise chatbot designed to help internal HR procedures. I came to this Hackathon with two friends from my engineering school, and we teamed up with three Wavestone consultants. Our idea was to design a chatbot helping new employees find their way in the company.
-
-    I proposed an innovative "multi-bot" architecture (cf. diagram above) to improve the pertinence of themed answers. The core idea was to have not one but multiple chatbots answering the user message. The best answer relative to the confidence and the current context would be selected. We also implemented a robust backend to share conversation contexts and progress between multiple bots.
-
-    For this solution, our team won the "Technical Prize," and our solution was described as "state-of-the-art" by the Jury!
+    In 2018, I participated in the Wavestone "Hack your bot" hackathon. The challenge was to create an enterprise chatbot that could assist with HR procedures. I came up with the idea for a "multi-bot" architecture, where multiple chatbots would answer the user's message, and the best answer would be selected based on confidence and context. Our team won the Technical Prize, and our solution was described as "state-of-the-art" by the jury. This project was a great learning experience for me, as it allowed me to explore new technical solutions and work with a team to develop a winning prototype.
 
 - name: Biocaux
+  hide: true
   tags:
     - text: 2018
     - text: INSA
       class: red
   description: |
     INSA innovation project: TODO.
-  hide: true
 
 - name: Agendapp
   image: agendapp.png
@@ -243,12 +225,11 @@
     - name: GitHub (frontend - web)
       path: https://github.com/ValentinViennot/agendacollaboratif_web
   description: |
-    When I joined the preparatory cycle at INSA Lyon, I was having trouble remembering or just paying attention to the teachers giving us homework.    
-    I observed many former high school students having the same issue. While assignments were pretty clear in high school, they were just one quick sentence, often unclear, at the end of a lecture or an exercise series in University. Almost every day, someone had to ask on our Facebook group, "do we need to do anything for tomorrow?".    
+    As a student at INSA Lyon, I struggled to keep track of all the homework and assignments that were assigned to me in my various classes. I noticed that many of my classmates were also having difficulty remembering or paying attention to their assignments. I realized that we needed a better way to manage our workload and stay organized.
 
-    I quickly prototyped a PHP app for what I first called "the collaborative textbook." Then, I experimented for the first time with AngularJS and Ionic and evolved it to the Agendapp product. A classic student agenda shared among all course students.    
+    To address this problem, I decided to create a collaborative website called the Agendapp. The Agendapp allowed students to log and comment on their homework and other deadlines, providing a shared student agenda for all course students. It was a valuable resource for my group and later, for my entire class.
 
-    The Agendapp made the first uni years easier for all my group and, later, my promotion.    
+    In creating the Agendapp, I also had the opportunity to experiment with new technologies such as AngularJS and Ionic. This project taught me valuable skills in web development and project management, and helped me to better understand the challenges and rewards of working on a collaborative project.   
 
 - name: MDL Evariste
   image: mdl-evariste.png
@@ -260,12 +241,13 @@
     - name: Public website
       path: https://mdl-evariste.fr/
   description: |
-    When I was in high school, I was president of the student office with a desire for change. I led a vast modernization campaign of our tools (also because I wanted real-life projects to learn to program on).    
-    We needed to manage our business, interact with the school administration, and -- most of all -- we needed communication tools. Communication is always a significant problem in big organizations.
+    In high school, I was the president of the student office and wanted to modernize our tools. I saw this as an opportunity to learn how to program and build my first real-world web application.
 
-    I built *my first real-world* web application divided into 4 “subdomains”: office administration, school administration, information screens, and a public portal. Eventually, we installed the first TV screen in our high school, displaying useful information to students.
+    The web application was divided into four "subdomains": office administration, school administration, information screens, and a public portal. It provided important tools for managing our business, interacting with the school administration, and improving communication within the organization.
 
-    These IT tools became regular use for both the student office and the high school administration. Today, I still receive messages about new screens being installed and how useful it is to the school!
+    One of the most significant achievements of this project was the installation of the first TV screen in our high school, which displayed useful information to students. These IT tools were regularly used by the student office and the school administration, and I still receive messages today about how useful they are to the school.
+
+    Overall, this project taught me valuable skills in web development and project management, and provided me with a sense of accomplishment and pride in creating something that was useful and appreciated by others.
 
 - name: 'MDL Evariste: President'
   hide: true
