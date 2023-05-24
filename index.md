@@ -11,7 +11,7 @@ With a passion for turning ideas into innovative solutions and a strong technica
 
 In addition to my technical skills and expertise, I am also passionate about product design, business, and society, and I seek to express and develop my creativity in these areas. My personal goals include sharing my technical expertise and leadership, and continuing to learn and grow as a person. If you're looking for someone who can turn complex challenges into simple solutions, and make a real impact in the world through open source software, let's work together and make our intelligence soar.
 
-If you would like to discuss interests overlap, opportunities, project ideas, or say hello, please don't hesitate to reach out.
+If you would like to discuss interests overlap, opportunities, project ideas, or say hello, please reach out by [email]({{ site.email }}) or on [Twitter]({{ site.twitter }}).
 
 ## Bio
 
@@ -35,10 +35,13 @@ Seeking to further develop my skills in user experience and data science, I spen
 
 | <img src="/assets/img/logo-ubuntu.png" alt="Canonical" width="40"/> | **Canonical** | Executive Product Manager | 2020 | [details]({{ site.linkedin }}) |
 
-Faced with the decision to start my own business [or](https://productcoalition.com/you-are-not-the-ceo-9f665d0e4a46) become a product manager, I decided to pursue the latter, with a focus on open source software. As a product manager for Canonical, I work every day to improve open source and make it sustainable, while also gaining valuable product management skills and contributing to the broader goal of increasing human intelligence.
+Faced with the decision to start my own business [or](https://productcoalition.com/you-are-not-the-ceo-9f665d0e4a46) become a product manager, I decided to pursue the latter, with a focus on open source software.
+
+At Canonical, our mission is to bring free software to the widest audience. One of the biggest barriers to adopting open source software is security and supply chain vulnerabilities, particularly with cloud-native software packaged as container images. That's why we're working to make open source an exact science, becoming the industry's one-stop shop for open-source software. We deliver Debian packages, Snaps, and container images, and we offer developers the tooling and infrastructure they need to build artefacts designed for a secure software supply chain.
+
+As a product manager for Canonical, I work every day to improve open source and make it sustainable, while also gaining valuable product management skills and contributing to the broader goal of increasing human intelligence.
 
 <!-- > "What's the best thing you could be working on? and, why aren't you?". — [Paul Graham](http://paulgraham.com/procrastination.html) -->
-
 
 <!--
 Minified version:
@@ -53,7 +56,7 @@ I'm determined about my next move: If you're looking for a Product Manager who's
 
 > "The most valuable thing you can make is a mistake - you can't learn anything from being perfect." - Adam Osbourne
 
-Welcome to my portfolio of projects and contributions! In this section, you'll find a selection of my most significant and noteworthy work. From side projects to school assignments, each of these projects showcases my passion for innovation, problem-solving, and making a real impact in the world. Whether you're looking for inspiration, guidance, or simply want to learn more about my work, I invite you to explore these projects and discover the magic that happens when creativity and technical expertise come together. Let's talk!
+Welcome to my portfolio of projects and contributions! In this section, you'll find a selection of my most significant and noteworthy work. From side projects to school assignments, each of these projects showcases my passion for innovation, problem-solving, and making a real impact in the world. Whether you're looking for inspiration, guidance, or simply want to learn more about my work: Let's talk!
 
 <!-- First one is the most recent active one.
 Some of them link to a more detailed README, some are just a title and a short description... There's no ground rule! -->

@@ -14,22 +14,20 @@
     - text: Canonical
       class: orange
   links:
+    - name: Chiselled Ubuntu x Distroless (blog)
+      path: https://ubuntu.com/blog/combining-distroless-and-ubuntu-chiselled-containers
     - name: .NET x Chiselled Ubuntu container images
       path: https://ubuntu.com/blog/install-dotnet-on-ubuntu
     - name: Announcement (blog post)
       path: https://ubuntu.com/blog/canonical-publishes-lts-docker-image-portfolio-on-docker-hub
     - name: Website
       path: https://ubuntu.com/security/docker-images
-    - name: Docker Hub 
-      path: https://hub.docker.com/u/ubuntu
     - name: Byline in TechRadar, "Containers at the Edge"
       path: https://www.techradar.com/news/containers-at-the-edge-why-the-hold-up
   description: |
-    At Canonical, our mission is to bring free software to the widest audience. One of the biggest barriers to adopting open source software is security and supply chain vulnerabilities, particularly with cloud-native software packaged as container images. That's why we're working to make open source an exact science, by becoming the industry's one-stop shop for open-source software. We deliver Debian packages, Snaps, and container images, and we offer developers the tooling and infrastructure they need to build artefacts designed for a secure software supply chain.
+    As the Product Manager for the Containers offerings, I'm working on building declarative tooling to craft new, ultra-small, OCI-compliant container images based on the Ubuntu content that millions of developers already know and trust. Our recent work with Microsoft has resulted in the creation of a new class of container images: Chiselled Ubuntu containers. These from-scratch containers are much smaller and more efficient than traditional Ubuntu containers, with a size of just 6MB, compared to the 70MB of a typical Ubuntu base image. This size reduction provides significant performance and security benefits, and it makes it possible to run self-contained software such as self-contained .NET apps in a more efficient and secure manner.
 
-    As part of the Containers team, I'm working on building declarative tooling to craft new, ultra-small, OCI-compliant container images based on the Ubuntu content that millions of developers already know and trust. Our recent work with Canonical and Microsoft has resulted in the creation of a new class of container images: Chiselled Ubuntu containers. These from-scratch containers are much smaller and more efficient than traditional Ubuntu containers, with a size of just 6MB, compared to the 70MB of a typical Ubuntu base image. This size reduction provides significant performance and security benefits, and it makes it possible to run self-contained software such as self-contained .NET apps in a more efficient and secure manner.
-
-    Our work on Chiselled Ubuntu containers is essential to the success of open source software, as Ubuntu is the platform of choice for many innovators around the world, including individuals and open source projects. By providing a modern, efficient, and secure platform for developing and shipping software, we're helping to advance the open source ecosystem and make it more accessible and sustainable. This work is challenging and requires us to push the boundaries of what's possible with open source, but I believe it is essential to the future of the open source community, and I'm proud to be a part of it.
+    Our work on Chiselled Ubuntu containers is essential to the success of open source software, as Ubuntu is the platform of choice for many innovators around the world, including individuals and open source projects. By providing a modern, efficient, and secure platform for developing and shipping software to production, we're helping to advance the open source ecosystem and make it more accessible and sustainable.
 
 - name: Black and white colouriser
   hide: false
@@ -95,8 +93,6 @@
 
     Gauges is a to-do app that focuses on managing recurring tasks in a more effective way than traditional to-do apps. Rather than setting reminders for specific dates and times, Gauges allows users to track the frequency of their tasks and provides a visual representation of their progress. This shift in focus allows users to keep the "lights green" and avoid feeling overwhelmed or frustrated by missed deadlines.
 
-    I co-founded ThePinkOwl to develop open-source projects for home automation and open-source education. Although not directly related to home automation, Gauges will be one of the first products to come out of this project. As the product designer, I am responsible for leading the development of Gauges and ensuring its success.
-
 - name: 'Bluffer: the locked-down version'
   image: bluffer.png
   tags:
@@ -138,7 +134,7 @@
     Have you ever invited vegetarian/vegan friends over for diner and didn't know how to replace the meat in your favorite dish? Or had a crucial ingredient suddenly disappearing from your kitchen?    
     This project is for you!    
 
-    As part of the EPFL Network Tour of Data Science course (Fall 2019), I worked on a project called "Kitchen Science" to create a tool that helps people replace ingredients in their recipes. This can be useful for vegetarians or vegans who want to avoid using meat in their dishes, or for anyone who has run out of a crucial ingredient.
+    As part of the EPFL Network Tour of Data Science course (Fall 2019), I worked on a project called "Kitchen Science" to create a tool that helps people replace ingredients in their recipes.
 
     To develop the tool, we used data science and graph manipulation to create ingredient networks using the Recipe1M+ and USDA databases. We then applied kNN analysis and graph filtering to determine the best replacements for ingredients. The result was a tool that could provide tasty alternatives for both meat-lovers and vegans.
 
