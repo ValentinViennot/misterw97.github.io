@@ -11,7 +11,15 @@
   link: https://www.goodbooks.io/books/inspired
   image: inspired.jpg
   tags:
-    - text: Product Management
+    - text: Product
+      class: purple
+
+- title: The Mom Test
+  author: Rob Fitzpatrick
+  link: 
+  image: themomtest.jpg
+  tags:
+    - text: Product
       class: purple
 
 - title: Who Moved My Cheese?
