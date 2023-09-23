@@ -6,6 +6,42 @@
   hide: true
   description: TODO
 
+- name: "Entrepreneur First: Building The Biggest Tech Company on Earth (right now)"
+  hide: false
+  image: luffy.png
+  tags:
+    - text: 2023
+    - text: EF
+      class: red
+  links:
+    - name: Why is Open Source not Profitable? (blog/essay)
+      path: https://mindthegapblog.com/posts/why-open-source/
+    - name: All we do is invest. (blog/essay)
+      path: https://mindthegapblog.com/posts/all-we-do-is-investment/
+  description: |
+    I've always wanted to be an Inventor.
+
+    And I joined EF Paris with a dream: **to build the Biggest Tech Company on Earth.**
+    
+    Or, rather, to find a way to sustainably invest in Open Source Software.
+
+    Nothing can compete with Open Source. Open Innovation is the healthiest, fastest, most socially profitable way to innovate.
+    Unfortunately, building an Open Source company today is closer to building an NGO dependent on donations.
+    Open Source as a business model is just not profitable —not as much as closed-source companies.
+
+    Therefore that's the mission I gave myself: **to invent a sustainable business model for Open Source Software.**
+    Funding Open Source Projects and Contributors.
+    
+    Doing this, I aim to free workers and provide a x1000 lever to enhancing individual and collective intelligence.
+
+    In order to succeed, I need a crew of Pirates:
+    - Finance/Economy experts,
+    - Web3/Blockchain super-devs,
+    - Product dreamers
+
+    If you're interested to join my crew and jump on the boat: reach out!
+
+
 - name: Ubuntu container images
   hide: false
   image: docker-ubuntu.png
