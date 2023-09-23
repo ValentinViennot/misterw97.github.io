@@ -39,11 +39,16 @@ Seeking to further develop my skills in user experience and data science, I spen
 
 | <img src="/assets/img/logo-ubuntu.png" alt="Canonical" width="40"/> | **Canonical** | Executive Product Manager | 2020 | [details]({{ site.linkedin }}) |
 
-Faced with the decision to start my own business [or](https://productcoalition.com/you-are-not-the-ceo-9f665d0e4a46) become a product manager, I decided to pursue the latter, with a focus on open source software.
+Faced with the decision to start my own business [or](https://productcoalition.com/you-are-not-the-ceo-9f665d0e4a46) become a product manager, I first decided to pursue the latter, with a focus on open source software and to join Canonical as a Product Manager.
 
-At Canonical, our mission is to bring free software to the widest audience. One of the biggest barriers to adopting open source software is security and supply chain vulnerabilities, particularly with cloud-native software packaged as container images. That's why we're working to make open source an exact science, becoming the industry's one-stop shop for open-source software. We deliver Debian packages, Snaps, and container images, and we offer developers the tooling and infrastructure they need to build artefacts designed for a secure software supply chain.
+Canonical's mission is to bring free software to the widest audience. One of the biggest barriers to adopting open source software is security and supply chain vulnerabilities, particularly with cloud-native software packaged as container images. Rather than shipping Ubuntu IN container images, we re-thought everything from the bottom-up and built Chiselled Ubuntu in order to distribute Ubuntu AS container images. I launched Chiselled Ubuntu as a completely new product offering inspired by Distroless but with the advantages of a Linux distro.
 
-As a product manager for Canonical, I work every day to improve open source and make it sustainable, while also gaining valuable product management skills and contributing to the broader goal of increasing human intelligence.
+As a Product Manager for Canonical, I worked every day to improve Open Source and make it sustainable, while also gaining valuable product management skills and contributing to the broader goal of increasing human intelligence.
+
+I am now taking it a step further.
+
+In October 2023, I joined Entrepreneur First as a Founder in Residence in order to find a solution to funding Open Source!
+
 
 <!-- > "What's the best thing you could be working on? and, why aren't you?". — [Paul Graham](http://paulgraham.com/procrastination.html) -->
 
